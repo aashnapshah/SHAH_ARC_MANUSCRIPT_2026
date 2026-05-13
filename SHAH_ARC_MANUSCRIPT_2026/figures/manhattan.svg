@@ -1,0 +1,3976 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg height="516.312908pt" version="1.1" viewBox="0 0 514.351069 516.312908" width="514.351069pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <metadata>
+  <rdf:RDF xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-05-12T20:40:04.470449</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.4.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linecap:butt;stroke-linejoin:round;}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 516.312908 
+L 514.351069 516.312908 
+L 514.351069 0 
+L 0 0 
+z
+" style="fill:#ffffff;"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 65.687573 187.000247 
+L 494.004726 187.000247 
+L 494.004726 32.110241 
+L 65.687573 32.110241 
+z
+" style="fill:#ffffff;"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="text_1">
+      <!-- Age -->
+      <g style="fill:#262626;" transform="translate(72.530038 204.872364)rotate(-45)scale(0.09 -0.09)">
+       <defs>
+        <path d="M 4058 0 
+L 3514 0 
+L 3066 1171 
+L 1152 1171 
+L 704 0 
+L 166 0 
+L 1811 4224 
+L 2419 4224 
+L 4058 0 
+z
+M 1338 1651 
+L 2880 1651 
+L 2106 3731 
+L 1338 1651 
+z
+" id="WorkSans-Regular-41" transform="scale(0.015625)"/>
+        <path d="M 3290 3789 
+L 3405 3334 
+Q 3398 3334 3385 3334 
+Q 3373 3334 3360 3334 
+Q 3046 3334 2876 3209 
+Q 2707 3085 2707 2810 
+L 2394 2970 
+Q 2394 3219 2509 3404 
+Q 2624 3590 2822 3689 
+Q 3021 3789 3258 3789 
+Q 3264 3789 3273 3789 
+Q 3283 3789 3290 3789 
+z
+M 2317 410 
+Q 2771 410 3027 202 
+Q 3283 -6 3283 -352 
+Q 3283 -666 3075 -896 
+Q 2867 -1126 2518 -1251 
+Q 2170 -1376 1734 -1376 
+Q 979 -1376 604 -1120 
+Q 230 -864 230 -506 
+Q 230 -250 400 -48 
+Q 570 154 973 179 
+L 928 83 
+Q 710 141 560 278 
+Q 410 416 410 678 
+Q 410 941 605 1129 
+Q 800 1318 1184 1363 
+L 1523 1190 
+L 1459 1190 
+Q 1146 1158 1014 1033 
+Q 883 909 883 762 
+Q 883 582 1014 496 
+Q 1146 410 1382 410 
+L 2317 410 
+z
+M 1728 -947 
+Q 2099 -947 2339 -870 
+Q 2579 -794 2694 -672 
+Q 2810 -550 2810 -410 
+Q 2810 -237 2672 -134 
+Q 2534 -32 2176 -32 
+L 1190 -32 
+Q 986 -32 845 -137 
+Q 704 -243 704 -429 
+Q 704 -666 976 -806 
+Q 1248 -947 1728 -947 
+z
+M 1683 3264 
+Q 2067 3264 2364 3126 
+Q 2662 2989 2828 2745 
+Q 2995 2502 2995 2182 
+Q 2995 1869 2828 1622 
+Q 2662 1376 2364 1238 
+Q 2067 1101 1683 1101 
+Q 1050 1101 710 1405 
+Q 371 1709 371 2182 
+Q 371 2502 540 2745 
+Q 710 2989 1004 3126 
+Q 1299 3264 1683 3264 
+z
+M 1683 2848 
+Q 1350 2848 1126 2665 
+Q 902 2483 902 2182 
+Q 902 1888 1126 1702 
+Q 1350 1517 1683 1517 
+Q 2016 1517 2240 1702 
+Q 2464 1888 2464 2182 
+Q 2464 2483 2240 2665 
+Q 2016 2848 1683 2848 
+z
+" id="WorkSans-Regular-67" transform="scale(0.015625)"/>
+        <path d="M 1933 -64 
+Q 1478 -64 1123 134 
+Q 768 333 569 707 
+Q 371 1082 371 1600 
+Q 371 2118 569 2492 
+Q 768 2867 1113 3065 
+Q 1459 3264 1901 3264 
+Q 2349 3264 2665 3072 
+Q 2982 2880 3148 2550 
+Q 3315 2221 3315 1811 
+Q 3315 1702 3308 1612 
+Q 3302 1523 3290 1453 
+L 704 1453 
+L 704 1907 
+L 3066 1907 
+L 2803 1856 
+Q 2803 2317 2550 2566 
+Q 2298 2816 1888 2816 
+Q 1574 2816 1347 2672 
+Q 1120 2528 995 2256 
+Q 870 1984 870 1600 
+Q 870 1222 998 947 
+Q 1126 672 1360 528 
+Q 1594 384 1920 384 
+Q 2272 384 2493 518 
+Q 2714 653 2848 883 
+L 3251 646 
+Q 3130 429 2941 269 
+Q 2752 109 2499 22 
+Q 2246 -64 1933 -64 
+z
+" id="WorkSans-Regular-65" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#WorkSans-Regular-41"/>
+       <use x="65.999985" xlink:href="#WorkSans-Regular-67"/>
+       <use x="119.199982" xlink:href="#WorkSans-Regular-65"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="text_2">
+      <!-- Exhaust Fumes -->
+      <g style="fill:#262626;" transform="translate(45.544464 241.656058)rotate(-45)scale(0.09 -0.09)">
+       <defs>
+        <path d="M 691 0 
+L 691 4224 
+L 3654 4224 
+L 3654 3744 
+L 1203 3744 
+L 1203 2381 
+L 3110 2381 
+L 3110 1901 
+L 1203 1901 
+L 1203 480 
+L 3750 480 
+L 3750 0 
+L 691 0 
+z
+" id="WorkSans-Regular-45" transform="scale(0.015625)"/>
+        <path d="M 902 3200 
+L 1856 1862 
+L 1888 1818 
+L 3200 0 
+L 2573 0 
+L 1581 1389 
+L 1523 1459 
+L 262 3200 
+L 902 3200 
+z
+M 3181 3200 
+L 1914 1491 
+L 1882 1491 
+L 781 0 
+L 186 0 
+L 1581 1837 
+L 1619 1837 
+L 2579 3200 
+L 3181 3200 
+z
+" id="WorkSans-Regular-78" transform="scale(0.015625)"/>
+        <path d="M 595 0 
+L 595 4672 
+L 1107 4672 
+L 1107 2720 
+Q 1274 3008 1549 3136 
+Q 1824 3264 2150 3264 
+Q 2496 3264 2777 3133 
+Q 3059 3002 3228 2733 
+Q 3398 2464 3398 2048 
+L 3398 0 
+L 2886 0 
+L 2886 1869 
+Q 2886 2400 2659 2608 
+Q 2432 2816 2099 2816 
+Q 1869 2816 1638 2707 
+Q 1408 2598 1257 2352 
+Q 1107 2106 1107 1696 
+L 1107 0 
+L 595 0 
+z
+" id="WorkSans-Regular-68" transform="scale(0.015625)"/>
+        <path d="M 2464 2067 
+Q 2464 2426 2272 2621 
+Q 2080 2816 1728 2816 
+Q 1395 2816 1164 2672 
+Q 934 2528 826 2208 
+L 410 2464 
+Q 538 2822 883 3043 
+Q 1229 3264 1741 3264 
+Q 2086 3264 2368 3145 
+Q 2650 3027 2813 2787 
+Q 2976 2547 2976 2170 
+L 2976 621 
+Q 2976 390 3219 390 
+Q 3341 390 3456 422 
+L 3430 19 
+Q 3302 -45 3098 -45 
+Q 2912 -45 2765 25 
+Q 2618 96 2534 240 
+Q 2451 384 2451 602 
+L 2451 666 
+L 2579 646 
+Q 2502 397 2316 240 
+Q 2131 83 1900 9 
+Q 1670 -64 1446 -64 
+Q 1165 -64 921 32 
+Q 678 128 534 323 
+Q 390 518 390 806 
+Q 390 1165 630 1398 
+Q 870 1632 1299 1715 
+L 2566 1965 
+L 2566 1542 
+L 1536 1331 
+Q 1222 1267 1068 1152 
+Q 915 1037 915 832 
+Q 915 634 1072 509 
+Q 1229 384 1517 384 
+Q 1702 384 1872 432 
+Q 2042 480 2176 579 
+Q 2310 678 2387 828 
+Q 2464 979 2464 1184 
+L 2464 2067 
+z
+" id="WorkSans-Regular-61" transform="scale(0.015625)"/>
+        <path d="M 1754 -64 
+Q 1446 -64 1174 51 
+Q 902 166 732 425 
+Q 563 685 563 1101 
+L 563 3200 
+L 1075 3200 
+L 1075 1235 
+Q 1075 749 1286 566 
+Q 1498 384 1882 384 
+Q 2061 384 2233 445 
+Q 2406 506 2544 637 
+Q 2682 768 2762 973 
+Q 2842 1178 2842 1459 
+L 2842 3200 
+L 3354 3200 
+L 3354 0 
+L 2906 0 
+L 2874 486 
+Q 2707 198 2422 67 
+Q 2138 -64 1754 -64 
+z
+" id="WorkSans-Regular-75" transform="scale(0.015625)"/>
+        <path d="M 1747 -64 
+Q 1280 -64 886 134 
+Q 493 333 282 698 
+L 717 1011 
+Q 858 717 1130 550 
+Q 1402 384 1786 384 
+Q 2125 384 2317 515 
+Q 2509 646 2509 858 
+Q 2509 992 2422 1104 
+Q 2336 1216 2093 1267 
+L 1325 1427 
+Q 858 1523 656 1747 
+Q 454 1971 454 2304 
+Q 454 2566 604 2784 
+Q 755 3002 1033 3133 
+Q 1312 3264 1690 3264 
+Q 2163 3264 2489 3078 
+Q 2816 2893 2976 2554 
+L 2547 2272 
+Q 2438 2554 2195 2685 
+Q 1952 2816 1690 2816 
+Q 1459 2816 1296 2752 
+Q 1133 2688 1046 2576 
+Q 960 2464 960 2323 
+Q 960 2182 1056 2064 
+Q 1152 1946 1414 1894 
+L 2214 1728 
+Q 2662 1638 2841 1433 
+Q 3021 1229 3021 934 
+Q 3021 634 2861 406 
+Q 2701 179 2413 57 
+Q 2125 -64 1747 -64 
+z
+" id="WorkSans-Regular-73" transform="scale(0.015625)"/>
+        <path d="M 1350 4109 
+L 1350 883 
+Q 1350 646 1484 531 
+Q 1619 416 1830 416 
+Q 2016 416 2150 480 
+Q 2285 544 2394 653 
+L 2573 224 
+Q 2426 90 2224 13 
+Q 2022 -64 1760 -64 
+Q 1517 -64 1305 22 
+Q 1094 109 969 297 
+Q 845 486 838 794 
+L 838 3968 
+L 1350 4109 
+z
+M 2515 3200 
+L 2515 2758 
+L 198 2758 
+L 198 3200 
+L 2515 3200 
+z
+" id="WorkSans-Regular-74" transform="scale(0.015625)"/>
+        <path id="WorkSans-Regular-20" transform="scale(0.015625)"/>
+        <path d="M 3648 3744 
+L 1203 3744 
+L 1203 2381 
+L 3110 2381 
+L 3110 1901 
+L 1203 1901 
+L 1203 0 
+L 691 0 
+L 691 4224 
+L 3648 4224 
+L 3648 3744 
+z
+" id="WorkSans-Regular-46" transform="scale(0.015625)"/>
+        <path d="M 595 0 
+L 595 3200 
+L 1043 3200 
+L 1075 2701 
+Q 1248 2995 1526 3129 
+Q 1805 3264 2099 3264 
+Q 2438 3264 2739 3110 
+Q 3040 2957 3200 2637 
+Q 3302 2854 3488 2992 
+Q 3674 3130 3894 3197 
+Q 4115 3264 4314 3264 
+Q 4621 3264 4899 3136 
+Q 5178 3008 5357 2739 
+Q 5536 2470 5536 2048 
+L 5536 0 
+L 5024 0 
+L 5024 1997 
+Q 5024 2432 4806 2624 
+Q 4589 2816 4269 2816 
+Q 4019 2816 3801 2694 
+Q 3584 2573 3453 2336 
+Q 3322 2099 3322 1754 
+L 3322 0 
+L 2810 0 
+L 2810 1997 
+Q 2810 2432 2592 2624 
+Q 2374 2816 2054 2816 
+Q 1843 2816 1622 2704 
+Q 1402 2592 1254 2349 
+Q 1107 2106 1107 1709 
+L 1107 0 
+L 595 0 
+z
+" id="WorkSans-Regular-6d" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#WorkSans-Regular-45"/>
+       <use x="63.799988" xlink:href="#WorkSans-Regular-78"/>
+       <use x="117.099976" xlink:href="#WorkSans-Regular-68"/>
+       <use x="178.999969" xlink:href="#WorkSans-Regular-61"/>
+       <use x="235.59996" xlink:href="#WorkSans-Regular-75"/>
+       <use x="297.299957" xlink:href="#WorkSans-Regular-73"/>
+       <use x="349.999954" xlink:href="#WorkSans-Regular-74"/>
+       <use x="391.899948" xlink:href="#WorkSans-Regular-20"/>
+       <use x="425.999939" xlink:href="#WorkSans-Regular-46"/>
+       <use x="486.999924" xlink:href="#WorkSans-Regular-75"/>
+       <use x="548.699921" xlink:href="#WorkSans-Regular-6d"/>
+       <use x="643.999908" xlink:href="#WorkSans-Regular-65"/>
+       <use x="701.699905" xlink:href="#WorkSans-Regular-73"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="text_3">
+      <!-- Home Smoke -->
+      <g style="fill:#262626;" transform="translate(61.649866 235.285137)rotate(-45)scale(0.09 -0.09)">
+       <defs>
+        <path d="M 4006 4224 
+L 4006 0 
+L 3494 0 
+L 3494 4224 
+L 4006 4224 
+z
+M 1203 4224 
+L 1203 0 
+L 691 0 
+L 691 4224 
+L 1203 4224 
+z
+M 3731 2381 
+L 3731 1901 
+L 960 1901 
+L 960 2381 
+L 3731 2381 
+z
+" id="WorkSans-Regular-48" transform="scale(0.015625)"/>
+        <path d="M 1920 3264 
+Q 2374 3264 2723 3065 
+Q 3072 2867 3270 2492 
+Q 3469 2118 3469 1600 
+Q 3469 1082 3270 707 
+Q 3072 333 2723 134 
+Q 2374 -64 1920 -64 
+Q 1472 -64 1120 134 
+Q 768 333 569 707 
+Q 371 1082 371 1600 
+Q 371 2118 569 2492 
+Q 768 2867 1120 3065 
+Q 1472 3264 1920 3264 
+z
+M 1920 2822 
+Q 1594 2822 1363 2675 
+Q 1133 2528 1008 2256 
+Q 883 1984 883 1600 
+Q 883 1222 1008 947 
+Q 1133 672 1363 525 
+Q 1594 378 1920 378 
+Q 2246 378 2476 525 
+Q 2707 672 2832 947 
+Q 2957 1222 2957 1600 
+Q 2957 1984 2832 2256 
+Q 2707 2528 2476 2675 
+Q 2246 2822 1920 2822 
+z
+" id="WorkSans-Regular-6f" transform="scale(0.015625)"/>
+        <path d="M 2048 4288 
+Q 2605 4288 3008 4061 
+Q 3411 3834 3680 3392 
+L 3251 3059 
+Q 3014 3469 2716 3638 
+Q 2419 3808 1997 3808 
+Q 1658 3808 1437 3712 
+Q 1216 3616 1113 3459 
+Q 1011 3302 1011 3104 
+Q 1011 2880 1152 2710 
+Q 1293 2541 1715 2445 
+L 2630 2240 
+Q 3238 2106 3478 1834 
+Q 3718 1562 3718 1158 
+Q 3718 800 3516 521 
+Q 3315 243 2950 89 
+Q 2586 -64 2093 -64 
+Q 1632 -64 1283 61 
+Q 934 186 684 397 
+Q 435 608 275 870 
+L 723 1235 
+Q 845 992 1037 806 
+Q 1229 621 1501 518 
+Q 1773 416 2125 416 
+Q 2451 416 2691 496 
+Q 2931 576 3059 733 
+Q 3187 890 3187 1114 
+Q 3187 1318 3052 1481 
+Q 2918 1645 2547 1728 
+L 1555 1952 
+Q 1165 2042 925 2198 
+Q 685 2355 579 2569 
+Q 474 2784 474 3034 
+Q 474 3373 662 3657 
+Q 851 3942 1206 4115 
+Q 1562 4288 2048 4288 
+z
+" id="WorkSans-Regular-53" transform="scale(0.015625)"/>
+        <path d="M 3405 3200 
+L 2022 1818 
+L 1901 1696 
+L 851 646 
+L 851 1286 
+L 2758 3200 
+L 3405 3200 
+z
+M 1107 4672 
+L 1107 0 
+L 595 0 
+L 595 4672 
+L 1107 4672 
+z
+M 2067 2080 
+L 3482 0 
+L 2861 0 
+L 1638 1792 
+L 2067 2080 
+z
+" id="WorkSans-Regular-6b" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#WorkSans-Regular-48"/>
+       <use x="73.399994" xlink:href="#WorkSans-Regular-6f"/>
+       <use x="133.399979" xlink:href="#WorkSans-Regular-6d"/>
+       <use x="228.699966" xlink:href="#WorkSans-Regular-65"/>
+       <use x="286.399963" xlink:href="#WorkSans-Regular-20"/>
+       <use x="320.499954" xlink:href="#WorkSans-Regular-53"/>
+       <use x="384.599945" xlink:href="#WorkSans-Regular-6d"/>
+       <use x="479.899933" xlink:href="#WorkSans-Regular-6f"/>
+       <use x="539.899918" xlink:href="#WorkSans-Regular-6b"/>
+       <use x="596.599915" xlink:href="#WorkSans-Regular-65"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="text_4">
+      <!-- Income Level -->
+      <g style="fill:#262626;" transform="translate(71.50566 235.163824)rotate(-45)scale(0.09 -0.09)">
+       <defs>
+        <path d="M 1203 4224 
+L 1203 0 
+L 691 0 
+L 691 4224 
+L 1203 4224 
+z
+" id="WorkSans-Regular-49" transform="scale(0.015625)"/>
+        <path d="M 595 0 
+L 595 3200 
+L 1043 3200 
+L 1088 2483 
+L 1005 2554 
+Q 1107 2810 1280 2966 
+Q 1453 3123 1680 3193 
+Q 1907 3264 2150 3264 
+Q 2496 3264 2777 3133 
+Q 3059 3002 3228 2733 
+Q 3398 2464 3398 2048 
+L 3398 0 
+L 2886 0 
+L 2886 1869 
+Q 2886 2400 2659 2608 
+Q 2432 2816 2099 2816 
+Q 1869 2816 1638 2707 
+Q 1408 2598 1257 2355 
+Q 1107 2112 1107 1702 
+L 1107 0 
+L 595 0 
+z
+" id="WorkSans-Regular-6e" transform="scale(0.015625)"/>
+        <path d="M 1920 3264 
+Q 2253 3264 2505 3161 
+Q 2758 3059 2944 2867 
+Q 3130 2675 3245 2413 
+L 2758 2182 
+Q 2656 2490 2448 2653 
+Q 2240 2816 1907 2816 
+Q 1587 2816 1356 2672 
+Q 1126 2528 1004 2256 
+Q 883 1984 883 1600 
+Q 883 1222 1004 947 
+Q 1126 672 1356 528 
+Q 1587 384 1907 384 
+Q 2157 384 2339 461 
+Q 2522 538 2640 685 
+Q 2758 832 2803 1043 
+L 3277 877 
+Q 3168 582 2979 371 
+Q 2790 160 2524 48 
+Q 2259 -64 1920 -64 
+Q 1472 -64 1120 134 
+Q 768 333 569 707 
+Q 371 1082 371 1600 
+Q 371 2118 569 2492 
+Q 768 2867 1120 3065 
+Q 1472 3264 1920 3264 
+z
+" id="WorkSans-Regular-63" transform="scale(0.015625)"/>
+        <path d="M 1203 480 
+L 3622 480 
+L 3622 0 
+L 691 0 
+L 691 4224 
+L 1203 4224 
+L 1203 480 
+z
+" id="WorkSans-Regular-4c" transform="scale(0.015625)"/>
+        <path d="M 2714 3200 
+L 3251 3200 
+L 1920 0 
+L 1408 0 
+L 77 3200 
+L 659 3200 
+L 1670 518 
+L 2714 3200 
+z
+" id="WorkSans-Regular-76" transform="scale(0.015625)"/>
+        <path d="M 1082 4672 
+L 1082 813 
+Q 1082 570 1171 477 
+Q 1261 384 1459 384 
+Q 1587 384 1670 403 
+Q 1754 422 1894 474 
+L 1811 26 
+Q 1709 -19 1587 -41 
+Q 1466 -64 1338 -64 
+Q 947 -64 758 147 
+Q 570 358 570 794 
+L 570 4672 
+L 1082 4672 
+z
+" id="WorkSans-Regular-6c" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#WorkSans-Regular-49"/>
+       <use x="29.599991" xlink:href="#WorkSans-Regular-6e"/>
+       <use x="91.499985" xlink:href="#WorkSans-Regular-63"/>
+       <use x="147.499969" xlink:href="#WorkSans-Regular-6f"/>
+       <use x="207.499954" xlink:href="#WorkSans-Regular-6d"/>
+       <use x="302.799942" xlink:href="#WorkSans-Regular-65"/>
+       <use x="360.499939" xlink:href="#WorkSans-Regular-20"/>
+       <use x="394.59993" xlink:href="#WorkSans-Regular-4c"/>
+       <use x="454.399918" xlink:href="#WorkSans-Regular-65"/>
+       <use x="512.099915" xlink:href="#WorkSans-Regular-76"/>
+       <use x="564.099899" xlink:href="#WorkSans-Regular-65"/>
+       <use x="621.799896" xlink:href="#WorkSans-Regular-6c"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="text_5">
+      <!-- Mineral Dust -->
+      <g style="fill:#262626;" transform="translate(83.168222 233.235742)rotate(-45)scale(0.09 -0.09)">
+       <defs>
+        <path d="M 4774 4224 
+L 4774 0 
+L 4288 0 
+L 4288 2656 
+L 4346 3770 
+L 4339 3770 
+L 2950 0 
+L 2515 0 
+L 1126 3770 
+L 1120 3770 
+L 1178 2656 
+L 1178 0 
+L 691 0 
+L 691 4224 
+L 1478 4224 
+L 2406 1658 
+L 2726 602 
+L 2739 602 
+L 3066 1651 
+L 3987 4224 
+L 4774 4224 
+z
+" id="WorkSans-Regular-4d" transform="scale(0.015625)"/>
+        <path d="M 851 3814 
+Q 678 3814 572 3920 
+Q 467 4026 467 4198 
+Q 467 4371 572 4476 
+Q 678 4582 851 4582 
+Q 1024 4582 1129 4476 
+Q 1235 4371 1235 4198 
+Q 1235 4026 1129 3920 
+Q 1024 3814 851 3814 
+z
+M 1107 3200 
+L 1107 0 
+L 595 0 
+L 595 3200 
+L 1107 3200 
+z
+" id="WorkSans-Regular-69" transform="scale(0.015625)"/>
+        <path d="M 595 0 
+L 595 3200 
+L 1011 3200 
+L 1082 2675 
+Q 1216 2970 1475 3117 
+Q 1734 3264 2106 3264 
+Q 2189 3264 2288 3251 
+Q 2387 3238 2458 3200 
+L 2368 2733 
+Q 2298 2758 2214 2771 
+Q 2131 2784 1978 2784 
+Q 1779 2784 1577 2669 
+Q 1376 2554 1241 2320 
+Q 1107 2086 1107 1728 
+L 1107 0 
+L 595 0 
+z
+" id="WorkSans-Regular-72" transform="scale(0.015625)"/>
+        <path d="M 2054 4224 
+Q 3046 4224 3612 3677 
+Q 4179 3130 4179 2112 
+Q 4179 1094 3612 547 
+Q 3046 0 2054 0 
+L 691 0 
+L 691 4224 
+L 2054 4224 
+z
+M 2106 480 
+Q 2829 480 3235 912 
+Q 3642 1344 3642 2112 
+Q 3642 2880 3235 3312 
+Q 2829 3744 2106 3744 
+L 1203 3744 
+L 1203 480 
+L 2106 480 
+z
+" id="WorkSans-Regular-44" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#WorkSans-Regular-4d"/>
+       <use x="85.399994" xlink:href="#WorkSans-Regular-69"/>
+       <use x="111.999985" xlink:href="#WorkSans-Regular-6e"/>
+       <use x="173.899979" xlink:href="#WorkSans-Regular-65"/>
+       <use x="231.599976" xlink:href="#WorkSans-Regular-72"/>
+       <use x="272.399963" xlink:href="#WorkSans-Regular-61"/>
+       <use x="328.999954" xlink:href="#WorkSans-Regular-6c"/>
+       <use x="359.599945" xlink:href="#WorkSans-Regular-20"/>
+       <use x="393.699936" xlink:href="#WorkSans-Regular-44"/>
+       <use x="465.799927" xlink:href="#WorkSans-Regular-75"/>
+       <use x="527.499924" xlink:href="#WorkSans-Regular-73"/>
+       <use x="580.199921" xlink:href="#WorkSans-Regular-74"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="text_6">
+      <!-- Organic Dust -->
+      <g style="fill:#262626;" transform="translate(92.215594 233.859212)rotate(-45)scale(0.09 -0.09)">
+       <defs>
+        <path d="M 2394 4288 
+Q 2995 4288 3433 4022 
+Q 3872 3757 4112 3270 
+Q 4352 2784 4352 2112 
+Q 4352 1440 4112 953 
+Q 3872 467 3433 201 
+Q 2995 -64 2394 -64 
+Q 1792 -64 1353 201 
+Q 915 467 675 953 
+Q 435 1440 435 2112 
+Q 435 2784 675 3270 
+Q 915 3757 1353 4022 
+Q 1792 4288 2394 4288 
+z
+M 2394 3808 
+Q 1958 3808 1638 3606 
+Q 1318 3405 1145 3024 
+Q 973 2643 973 2112 
+Q 973 1581 1145 1200 
+Q 1318 819 1638 617 
+Q 1958 416 2394 416 
+Q 2835 416 3152 617 
+Q 3469 819 3641 1200 
+Q 3814 1581 3814 2112 
+Q 3814 2643 3641 3024 
+Q 3469 3405 3152 3606 
+Q 2835 3808 2394 3808 
+z
+" id="WorkSans-Regular-4f" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#WorkSans-Regular-4f"/>
+       <use x="74.799988" xlink:href="#WorkSans-Regular-72"/>
+       <use x="115.599976" xlink:href="#WorkSans-Regular-67"/>
+       <use x="168.799973" xlink:href="#WorkSans-Regular-61"/>
+       <use x="225.399963" xlink:href="#WorkSans-Regular-6e"/>
+       <use x="287.299957" xlink:href="#WorkSans-Regular-69"/>
+       <use x="313.899948" xlink:href="#WorkSans-Regular-63"/>
+       <use x="369.899933" xlink:href="#WorkSans-Regular-20"/>
+       <use x="403.999924" xlink:href="#WorkSans-Regular-44"/>
+       <use x="476.099915" xlink:href="#WorkSans-Regular-75"/>
+       <use x="537.799911" xlink:href="#WorkSans-Regular-73"/>
+       <use x="590.499908" xlink:href="#WorkSans-Regular-74"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_7">
+     <g id="text_7">
+      <!-- Other Fumes -->
+      <g style="fill:#262626;" transform="translate(101.522496 234.35043)rotate(-45)scale(0.09 -0.09)">
+       <use xlink:href="#WorkSans-Regular-4f"/>
+       <use x="74.799988" xlink:href="#WorkSans-Regular-74"/>
+       <use x="116.699982" xlink:href="#WorkSans-Regular-68"/>
+       <use x="178.599976" xlink:href="#WorkSans-Regular-65"/>
+       <use x="236.299973" xlink:href="#WorkSans-Regular-72"/>
+       <use x="277.09996" xlink:href="#WorkSans-Regular-20"/>
+       <use x="311.199951" xlink:href="#WorkSans-Regular-46"/>
+       <use x="372.199936" xlink:href="#WorkSans-Regular-75"/>
+       <use x="433.899933" xlink:href="#WorkSans-Regular-6d"/>
+       <use x="529.199921" xlink:href="#WorkSans-Regular-65"/>
+       <use x="586.899918" xlink:href="#WorkSans-Regular-73"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_8">
+     <g id="text_8">
+      <!-- Poverty Ratio -->
+      <g style="fill:#262626;" transform="translate(110.520149 235.023618)rotate(-45)scale(0.09 -0.09)">
+       <defs>
+        <path d="M 2182 4224 
+Q 2611 4224 2928 4067 
+Q 3245 3910 3424 3622 
+Q 3603 3334 3603 2938 
+Q 3603 2541 3424 2253 
+Q 3245 1965 2928 1808 
+Q 2611 1651 2182 1651 
+L 1203 1651 
+L 1203 0 
+L 691 0 
+L 691 4224 
+L 2182 4224 
+z
+M 2106 2131 
+Q 2605 2131 2835 2339 
+Q 3066 2547 3066 2938 
+Q 3066 3334 2835 3539 
+Q 2605 3744 2106 3744 
+L 1203 3744 
+L 1203 2131 
+L 2106 2131 
+z
+" id="WorkSans-Regular-50" transform="scale(0.015625)"/>
+        <path d="M 3226 3200 
+L 1722 -538 
+Q 1600 -851 1456 -1033 
+Q 1312 -1216 1136 -1296 
+Q 960 -1376 730 -1376 
+Q 512 -1376 329 -1315 
+Q 147 -1254 6 -1152 
+L 147 -704 
+Q 275 -819 419 -873 
+Q 563 -928 704 -928 
+Q 870 -928 1017 -825 
+Q 1165 -723 1286 -410 
+L 1453 6 
+L 1133 768 
+L 115 3200 
+L 698 3200 
+L 1498 1114 
+L 1696 544 
+L 1926 1178 
+L 2675 3200 
+L 3226 3200 
+z
+" id="WorkSans-Regular-79" transform="scale(0.015625)"/>
+        <path d="M 2291 4224 
+Q 2938 4224 3328 3891 
+Q 3718 3558 3718 2989 
+Q 3718 2419 3324 2102 
+Q 2931 1786 2285 1786 
+L 2240 1754 
+L 1203 1754 
+L 1203 0 
+L 691 0 
+L 691 4224 
+L 2291 4224 
+z
+M 2285 2234 
+Q 2739 2234 2960 2422 
+Q 3181 2611 3181 2989 
+Q 3181 3366 2960 3555 
+Q 2739 3744 2285 3744 
+L 1203 3744 
+L 1203 2234 
+L 2285 2234 
+z
+M 2579 2131 
+L 3974 0 
+L 3366 0 
+L 2150 1850 
+L 2579 2131 
+z
+" id="WorkSans-Regular-52" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#WorkSans-Regular-50"/>
+       <use x="60.999985" xlink:href="#WorkSans-Regular-6f"/>
+       <use x="120.999969" xlink:href="#WorkSans-Regular-76"/>
+       <use x="172.999954" xlink:href="#WorkSans-Regular-65"/>
+       <use x="230.699951" xlink:href="#WorkSans-Regular-72"/>
+       <use x="271.499939" xlink:href="#WorkSans-Regular-74"/>
+       <use x="313.399933" xlink:href="#WorkSans-Regular-79"/>
+       <use x="364.999924" xlink:href="#WorkSans-Regular-20"/>
+       <use x="399.099915" xlink:href="#WorkSans-Regular-52"/>
+       <use x="465.599899" xlink:href="#WorkSans-Regular-61"/>
+       <use x="522.19989" xlink:href="#WorkSans-Regular-74"/>
+       <use x="564.099884" xlink:href="#WorkSans-Regular-69"/>
+       <use x="590.699875" xlink:href="#WorkSans-Regular-6f"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_9">
+     <g id="text_9">
+      <!-- UK Born -->
+      <g style="fill:#262626;" transform="translate(136.336558 219.005329)rotate(-45)scale(0.09 -0.09)">
+       <defs>
+        <path d="M 3923 4224 
+L 3923 1574 
+Q 3923 762 3494 349 
+Q 3066 -64 2266 -64 
+Q 1472 -64 1040 349 
+Q 608 762 608 1574 
+L 608 4224 
+L 1120 4224 
+L 1120 1702 
+Q 1120 1043 1398 729 
+Q 1677 416 2266 416 
+Q 2854 416 3132 729 
+Q 3411 1043 3411 1702 
+L 3411 4224 
+L 3923 4224 
+z
+" id="WorkSans-Regular-55" transform="scale(0.015625)"/>
+        <path d="M 4000 4224 
+L 2157 2336 
+L 2080 2253 
+L 947 1094 
+L 947 1786 
+L 3328 4224 
+L 4000 4224 
+z
+M 1203 4224 
+L 1203 0 
+L 691 0 
+L 691 4224 
+L 1203 4224 
+z
+M 2208 2662 
+L 4019 0 
+L 3405 0 
+L 1786 2374 
+L 2208 2662 
+z
+" id="WorkSans-Regular-4b" transform="scale(0.015625)"/>
+        <path d="M 691 0 
+L 691 4224 
+L 2195 4224 
+Q 2944 4224 3289 3910 
+Q 3635 3597 3635 3059 
+Q 3635 2739 3449 2480 
+Q 3264 2221 2925 2150 
+L 2925 2144 
+Q 3302 2074 3523 1802 
+Q 3744 1530 3744 1184 
+Q 3744 646 3341 323 
+Q 2938 0 2189 0 
+L 691 0 
+z
+M 1203 480 
+L 2310 480 
+Q 2765 480 2985 665 
+Q 3206 851 3206 1184 
+Q 3206 1523 2985 1705 
+Q 2765 1888 2310 1888 
+L 1203 1888 
+L 1203 480 
+z
+M 1203 2368 
+L 2202 2368 
+Q 3098 2368 3098 3059 
+Q 3098 3744 2202 3744 
+L 1203 3744 
+L 1203 2368 
+z
+" id="WorkSans-Regular-42" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#WorkSans-Regular-55"/>
+       <use x="70.799988" xlink:href="#WorkSans-Regular-4b"/>
+       <use x="136.399979" xlink:href="#WorkSans-Regular-20"/>
+       <use x="170.499969" xlink:href="#WorkSans-Regular-42"/>
+       <use x="235.799957" xlink:href="#WorkSans-Regular-6f"/>
+       <use x="295.799942" xlink:href="#WorkSans-Regular-72"/>
+       <use x="336.59993" xlink:href="#WorkSans-Regular-6e"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_10">
+     <g id="text_10">
+      <!-- US Born -->
+      <g style="fill:#262626;" transform="translate(146.166499 218.909869)rotate(-45)scale(0.09 -0.09)">
+       <use xlink:href="#WorkSans-Regular-55"/>
+       <use x="70.799988" xlink:href="#WorkSans-Regular-53"/>
+       <use x="134.899979" xlink:href="#WorkSans-Regular-20"/>
+       <use x="168.999969" xlink:href="#WorkSans-Regular-42"/>
+       <use x="234.299957" xlink:href="#WorkSans-Regular-6f"/>
+       <use x="294.299942" xlink:href="#WorkSans-Regular-72"/>
+       <use x="335.09993" xlink:href="#WorkSans-Regular-6e"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_11">
+     <g id="text_11">
+      <!-- Work Air Quality -->
+      <g style="fill:#262626;" transform="translate(130.288025 244.491004)rotate(-45)scale(0.09 -0.09)">
+       <defs>
+        <path d="M 1478 0 
+L 230 4224 
+L 762 4224 
+L 1805 467 
+L 2797 4224 
+L 3379 4224 
+L 4371 454 
+L 5414 4224 
+L 5920 4224 
+L 4678 0 
+L 4045 0 
+L 3296 2739 
+L 3078 3693 
+L 3072 3693 
+L 2854 2739 
+L 2112 0 
+L 1478 0 
+z
+" id="WorkSans-Regular-57" transform="scale(0.015625)"/>
+        <path d="M 3418 -1248 
+Q 3091 -1248 2803 -1126 
+Q 2515 -1005 2332 -710 
+Q 2150 -416 2150 96 
+Q 2150 154 2153 221 
+Q 2157 288 2163 352 
+L 2618 339 
+Q 2611 275 2608 220 
+Q 2605 166 2605 115 
+Q 2605 -250 2720 -429 
+Q 2835 -608 3024 -669 
+Q 3213 -730 3430 -730 
+Q 3667 -730 3865 -666 
+Q 4064 -602 4186 -493 
+L 4352 -966 
+Q 4198 -1101 3926 -1174 
+Q 3654 -1248 3418 -1248 
+z
+M 2394 4288 
+Q 2995 4288 3433 4022 
+Q 3872 3757 4112 3270 
+Q 4352 2784 4352 2112 
+Q 4352 1440 4112 953 
+Q 3872 467 3433 201 
+Q 2995 -64 2394 -64 
+Q 1792 -64 1353 201 
+Q 915 467 675 953 
+Q 435 1440 435 2112 
+Q 435 2784 675 3270 
+Q 915 3757 1353 4022 
+Q 1792 4288 2394 4288 
+z
+M 2394 3808 
+Q 1958 3808 1638 3606 
+Q 1318 3405 1145 3024 
+Q 973 2643 973 2112 
+Q 973 1581 1145 1200 
+Q 1318 819 1638 617 
+Q 1958 416 2394 416 
+Q 2835 416 3152 617 
+Q 3469 819 3641 1200 
+Q 3814 1581 3814 2112 
+Q 3814 2643 3641 3024 
+Q 3469 3405 3152 3606 
+Q 2835 3808 2394 3808 
+z
+" id="WorkSans-Regular-51" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#WorkSans-Regular-57"/>
+       <use x="96.099991" xlink:href="#WorkSans-Regular-6f"/>
+       <use x="156.099976" xlink:href="#WorkSans-Regular-72"/>
+       <use x="196.899963" xlink:href="#WorkSans-Regular-6b"/>
+       <use x="253.59996" xlink:href="#WorkSans-Regular-20"/>
+       <use x="287.699951" xlink:href="#WorkSans-Regular-41"/>
+       <use x="353.699936" xlink:href="#WorkSans-Regular-69"/>
+       <use x="380.299927" xlink:href="#WorkSans-Regular-72"/>
+       <use x="421.099915" xlink:href="#WorkSans-Regular-20"/>
+       <use x="455.199905" xlink:href="#WorkSans-Regular-51"/>
+       <use x="529.999893" xlink:href="#WorkSans-Regular-75"/>
+       <use x="591.69989" xlink:href="#WorkSans-Regular-61"/>
+       <use x="648.299881" xlink:href="#WorkSans-Regular-6c"/>
+       <use x="678.899872" xlink:href="#WorkSans-Regular-69"/>
+       <use x="705.499863" xlink:href="#WorkSans-Regular-74"/>
+       <use x="747.399857" xlink:href="#WorkSans-Regular-79"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_12">
+     <g id="text_12">
+      <!-- Work Breathing -->
+      <g style="fill:#262626;" transform="translate(142.909159 241.604351)rotate(-45)scale(0.09 -0.09)">
+       <use xlink:href="#WorkSans-Regular-57"/>
+       <use x="96.099991" xlink:href="#WorkSans-Regular-6f"/>
+       <use x="156.099976" xlink:href="#WorkSans-Regular-72"/>
+       <use x="196.899963" xlink:href="#WorkSans-Regular-6b"/>
+       <use x="253.59996" xlink:href="#WorkSans-Regular-20"/>
+       <use x="287.699951" xlink:href="#WorkSans-Regular-42"/>
+       <use x="352.999939" xlink:href="#WorkSans-Regular-72"/>
+       <use x="393.799927" xlink:href="#WorkSans-Regular-65"/>
+       <use x="451.499924" xlink:href="#WorkSans-Regular-61"/>
+       <use x="508.099915" xlink:href="#WorkSans-Regular-74"/>
+       <use x="549.999908" xlink:href="#WorkSans-Regular-68"/>
+       <use x="611.899902" xlink:href="#WorkSans-Regular-69"/>
+       <use x="638.499893" xlink:href="#WorkSans-Regular-6e"/>
+       <use x="700.399887" xlink:href="#WorkSans-Regular-67"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_13">
+     <g id="text_13">
+      <!-- Work Exhaust -->
+      <g style="fill:#262626;" transform="translate(157.38479 236.89502)rotate(-45)scale(0.09 -0.09)">
+       <use xlink:href="#WorkSans-Regular-57"/>
+       <use x="96.099991" xlink:href="#WorkSans-Regular-6f"/>
+       <use x="156.099976" xlink:href="#WorkSans-Regular-72"/>
+       <use x="196.899963" xlink:href="#WorkSans-Regular-6b"/>
+       <use x="253.59996" xlink:href="#WorkSans-Regular-20"/>
+       <use x="287.699951" xlink:href="#WorkSans-Regular-45"/>
+       <use x="351.499939" xlink:href="#WorkSans-Regular-78"/>
+       <use x="404.799927" xlink:href="#WorkSans-Regular-68"/>
+       <use x="466.699921" xlink:href="#WorkSans-Regular-61"/>
+       <use x="523.299911" xlink:href="#WorkSans-Regular-75"/>
+       <use x="584.999908" xlink:href="#WorkSans-Regular-73"/>
+       <use x="637.699905" xlink:href="#WorkSans-Regular-74"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_14">
+     <g id="text_14">
+      <!-- Work Fumes -->
+      <g style="fill:#262626;" transform="translate(171.160386 232.853905)rotate(-45)scale(0.09 -0.09)">
+       <use xlink:href="#WorkSans-Regular-57"/>
+       <use x="96.099991" xlink:href="#WorkSans-Regular-6f"/>
+       <use x="156.099976" xlink:href="#WorkSans-Regular-72"/>
+       <use x="196.899963" xlink:href="#WorkSans-Regular-6b"/>
+       <use x="253.59996" xlink:href="#WorkSans-Regular-20"/>
+       <use x="287.699951" xlink:href="#WorkSans-Regular-46"/>
+       <use x="348.699936" xlink:href="#WorkSans-Regular-75"/>
+       <use x="410.399933" xlink:href="#WorkSans-Regular-6d"/>
+       <use x="505.699921" xlink:href="#WorkSans-Regular-65"/>
+       <use x="563.399918" xlink:href="#WorkSans-Regular-73"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_15">
+     <g id="text_15">
+      <!-- Work Mask -->
+      <g style="fill:#262626;" transform="translate(185.795117 227.953655)rotate(-45)scale(0.09 -0.09)">
+       <use xlink:href="#WorkSans-Regular-57"/>
+       <use x="96.099991" xlink:href="#WorkSans-Regular-6f"/>
+       <use x="156.099976" xlink:href="#WorkSans-Regular-72"/>
+       <use x="196.899963" xlink:href="#WorkSans-Regular-6b"/>
+       <use x="253.59996" xlink:href="#WorkSans-Regular-20"/>
+       <use x="287.699951" xlink:href="#WorkSans-Regular-4d"/>
+       <use x="373.099945" xlink:href="#WorkSans-Regular-61"/>
+       <use x="429.699936" xlink:href="#WorkSans-Regular-73"/>
+       <use x="482.399933" xlink:href="#WorkSans-Regular-6b"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_16">
+     <g id="text_16">
+      <!-- Work Smoke -->
+      <g style="fill:#262626;" transform="translate(190.286291 233.196962)rotate(-45)scale(0.09 -0.09)">
+       <use xlink:href="#WorkSans-Regular-57"/>
+       <use x="96.099991" xlink:href="#WorkSans-Regular-6f"/>
+       <use x="156.099976" xlink:href="#WorkSans-Regular-72"/>
+       <use x="196.899963" xlink:href="#WorkSans-Regular-6b"/>
+       <use x="253.59996" xlink:href="#WorkSans-Regular-20"/>
+       <use x="287.699951" xlink:href="#WorkSans-Regular-53"/>
+       <use x="351.799942" xlink:href="#WorkSans-Regular-6d"/>
+       <use x="447.09993" xlink:href="#WorkSans-Regular-6f"/>
+       <use x="507.099915" xlink:href="#WorkSans-Regular-6b"/>
+       <use x="563.799911" xlink:href="#WorkSans-Regular-65"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_17">
+     <g id="text_17">
+      <!-- Years in UK -->
+      <g style="fill:#262626;" transform="translate(204.05592 229.161813)rotate(-45)scale(0.09 -0.09)">
+       <defs>
+        <path d="M 3597 4224 
+L 2086 1651 
+L 2086 0 
+L 1574 0 
+L 1574 1651 
+L 64 4224 
+L 672 4224 
+L 1491 2778 
+L 1830 2176 
+L 2170 2778 
+L 2989 4224 
+L 3597 4224 
+z
+" id="WorkSans-Regular-59" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#WorkSans-Regular-59"/>
+       <use x="57.199997" xlink:href="#WorkSans-Regular-65"/>
+       <use x="114.899994" xlink:href="#WorkSans-Regular-61"/>
+       <use x="171.499985" xlink:href="#WorkSans-Regular-72"/>
+       <use x="212.299973" xlink:href="#WorkSans-Regular-73"/>
+       <use x="264.999969" xlink:href="#WorkSans-Regular-20"/>
+       <use x="299.09996" xlink:href="#WorkSans-Regular-69"/>
+       <use x="325.699951" xlink:href="#WorkSans-Regular-6e"/>
+       <use x="387.599945" xlink:href="#WorkSans-Regular-20"/>
+       <use x="421.699936" xlink:href="#WorkSans-Regular-55"/>
+       <use x="492.499924" xlink:href="#WorkSans-Regular-4b"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_18">
+     <g id="text_18">
+      <!-- Arm Circumference -->
+      <g style="fill:#262626;" transform="translate(188.448909 254.503305)rotate(-45)scale(0.09 -0.09)">
+       <defs>
+        <path d="M 4096 1082 
+Q 3962 723 3712 464 
+Q 3462 205 3126 70 
+Q 2790 -64 2394 -64 
+Q 1792 -64 1353 201 
+Q 915 467 675 953 
+Q 435 1440 435 2112 
+Q 435 2784 675 3270 
+Q 915 3757 1353 4022 
+Q 1792 4288 2381 4288 
+Q 2790 4288 3110 4176 
+Q 3430 4064 3657 3843 
+Q 3885 3622 4019 3302 
+L 3514 3066 
+Q 3373 3430 3107 3619 
+Q 2842 3808 2419 3808 
+Q 1990 3808 1664 3606 
+Q 1338 3405 1155 3027 
+Q 973 2650 973 2112 
+Q 973 1581 1145 1200 
+Q 1318 819 1638 617 
+Q 1958 416 2394 416 
+Q 2816 416 3129 630 
+Q 3443 845 3584 1274 
+L 4096 1082 
+z
+" id="WorkSans-Regular-43" transform="scale(0.015625)"/>
+        <path d="M 1894 4704 
+Q 2061 4704 2208 4665 
+Q 2355 4627 2438 4557 
+L 2304 4141 
+Q 2227 4192 2137 4214 
+Q 2048 4237 1939 4237 
+Q 1664 4237 1510 4105 
+Q 1357 3974 1357 3686 
+L 1357 3200 
+L 1357 3034 
+L 1357 0 
+L 845 0 
+L 845 3738 
+Q 845 3949 909 4128 
+Q 973 4307 1104 4435 
+Q 1235 4563 1433 4633 
+Q 1632 4704 1894 4704 
+z
+M 2426 3200 
+L 2426 2758 
+L 205 2758 
+L 205 3200 
+L 2426 3200 
+z
+" id="WorkSans-Regular-66" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#WorkSans-Regular-41"/>
+       <use x="65.999985" xlink:href="#WorkSans-Regular-72"/>
+       <use x="106.799973" xlink:href="#WorkSans-Regular-6d"/>
+       <use x="202.09996" xlink:href="#WorkSans-Regular-20"/>
+       <use x="236.199951" xlink:href="#WorkSans-Regular-43"/>
+       <use x="304.799942" xlink:href="#WorkSans-Regular-69"/>
+       <use x="331.399933" xlink:href="#WorkSans-Regular-72"/>
+       <use x="372.199921" xlink:href="#WorkSans-Regular-63"/>
+       <use x="428.199905" xlink:href="#WorkSans-Regular-75"/>
+       <use x="489.899902" xlink:href="#WorkSans-Regular-6d"/>
+       <use x="585.19989" xlink:href="#WorkSans-Regular-66"/>
+       <use x="624.499878" xlink:href="#WorkSans-Regular-65"/>
+       <use x="682.199875" xlink:href="#WorkSans-Regular-72"/>
+       <use x="722.999863" xlink:href="#WorkSans-Regular-65"/>
+       <use x="780.69986" xlink:href="#WorkSans-Regular-6e"/>
+       <use x="842.599854" xlink:href="#WorkSans-Regular-63"/>
+       <use x="898.599838" xlink:href="#WorkSans-Regular-65"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_19">
+     <g id="text_19">
+      <!-- Arm Length -->
+      <g style="fill:#262626;" transform="translate(222.568299 230.086576)rotate(-45)scale(0.09 -0.09)">
+       <use xlink:href="#WorkSans-Regular-41"/>
+       <use x="65.999985" xlink:href="#WorkSans-Regular-72"/>
+       <use x="106.799973" xlink:href="#WorkSans-Regular-6d"/>
+       <use x="202.09996" xlink:href="#WorkSans-Regular-20"/>
+       <use x="236.199951" xlink:href="#WorkSans-Regular-4c"/>
+       <use x="295.999939" xlink:href="#WorkSans-Regular-65"/>
+       <use x="353.699936" xlink:href="#WorkSans-Regular-6e"/>
+       <use x="415.59993" xlink:href="#WorkSans-Regular-67"/>
+       <use x="468.799927" xlink:href="#WorkSans-Regular-74"/>
+       <use x="510.699921" xlink:href="#WorkSans-Regular-68"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_20">
+     <g id="text_20">
+      <!-- BMI -->
+      <g style="fill:#262626;" transform="translate(257.301214 205.119961)rotate(-45)scale(0.09 -0.09)">
+       <use xlink:href="#WorkSans-Regular-42"/>
+       <use x="65.299988" xlink:href="#WorkSans-Regular-4d"/>
+       <use x="150.699982" xlink:href="#WorkSans-Regular-49"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_21">
+     <g id="text_21">
+      <!-- Height -->
+      <g style="fill:#262626;" transform="translate(258.449319 213.674517)rotate(-45)scale(0.09 -0.09)">
+       <use xlink:href="#WorkSans-Regular-48"/>
+       <use x="73.399994" xlink:href="#WorkSans-Regular-65"/>
+       <use x="131.099991" xlink:href="#WorkSans-Regular-69"/>
+       <use x="157.699982" xlink:href="#WorkSans-Regular-67"/>
+       <use x="210.899979" xlink:href="#WorkSans-Regular-68"/>
+       <use x="272.799973" xlink:href="#WorkSans-Regular-74"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_22">
+     <g id="text_22">
+      <!-- Hip Circumference -->
+      <g style="fill:#262626;" transform="translate(229.893636 252.02832)rotate(-45)scale(0.09 -0.09)">
+       <defs>
+        <path d="M 595 -1344 
+L 595 3200 
+L 1043 3200 
+L 1088 2419 
+L 1018 2509 
+Q 1101 2733 1267 2902 
+Q 1434 3072 1670 3168 
+Q 1907 3264 2182 3264 
+Q 2573 3264 2902 3065 
+Q 3232 2867 3430 2496 
+Q 3629 2125 3629 1600 
+Q 3629 1082 3427 707 
+Q 3226 333 2893 134 
+Q 2560 -64 2163 -64 
+Q 1766 -64 1468 131 
+Q 1171 326 1043 627 
+L 1107 723 
+L 1107 -1344 
+L 595 -1344 
+z
+M 2112 384 
+Q 2586 384 2851 717 
+Q 3117 1050 3117 1600 
+Q 3117 2150 2857 2483 
+Q 2598 2816 2131 2816 
+Q 1824 2816 1593 2665 
+Q 1363 2515 1235 2243 
+Q 1107 1971 1107 1600 
+Q 1107 1235 1232 960 
+Q 1357 685 1584 534 
+Q 1811 384 2112 384 
+z
+" id="WorkSans-Regular-70" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#WorkSans-Regular-48"/>
+       <use x="73.399994" xlink:href="#WorkSans-Regular-69"/>
+       <use x="99.999985" xlink:href="#WorkSans-Regular-70"/>
+       <use x="162.699982" xlink:href="#WorkSans-Regular-20"/>
+       <use x="196.799973" xlink:href="#WorkSans-Regular-43"/>
+       <use x="265.399963" xlink:href="#WorkSans-Regular-69"/>
+       <use x="291.999954" xlink:href="#WorkSans-Regular-72"/>
+       <use x="332.799942" xlink:href="#WorkSans-Regular-63"/>
+       <use x="388.799927" xlink:href="#WorkSans-Regular-75"/>
+       <use x="450.499924" xlink:href="#WorkSans-Regular-6d"/>
+       <use x="545.799911" xlink:href="#WorkSans-Regular-66"/>
+       <use x="585.099899" xlink:href="#WorkSans-Regular-65"/>
+       <use x="642.799896" xlink:href="#WorkSans-Regular-72"/>
+       <use x="683.599884" xlink:href="#WorkSans-Regular-65"/>
+       <use x="741.299881" xlink:href="#WorkSans-Regular-6e"/>
+       <use x="803.199875" xlink:href="#WorkSans-Regular-63"/>
+       <use x="859.19986" xlink:href="#WorkSans-Regular-65"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_23">
+     <g id="text_23">
+      <!-- Sitting Height -->
+      <g style="fill:#262626;" transform="translate(255.625524 235.967274)rotate(-45)scale(0.09 -0.09)">
+       <use xlink:href="#WorkSans-Regular-53"/>
+       <use x="64.099991" xlink:href="#WorkSans-Regular-69"/>
+       <use x="90.699982" xlink:href="#WorkSans-Regular-74"/>
+       <use x="132.599976" xlink:href="#WorkSans-Regular-74"/>
+       <use x="174.499969" xlink:href="#WorkSans-Regular-69"/>
+       <use x="201.09996" xlink:href="#WorkSans-Regular-6e"/>
+       <use x="262.999954" xlink:href="#WorkSans-Regular-67"/>
+       <use x="316.199951" xlink:href="#WorkSans-Regular-20"/>
+       <use x="350.299942" xlink:href="#WorkSans-Regular-48"/>
+       <use x="423.699936" xlink:href="#WorkSans-Regular-65"/>
+       <use x="481.399933" xlink:href="#WorkSans-Regular-69"/>
+       <use x="507.999924" xlink:href="#WorkSans-Regular-67"/>
+       <use x="561.199921" xlink:href="#WorkSans-Regular-68"/>
+       <use x="623.099915" xlink:href="#WorkSans-Regular-74"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_24">
+     <g id="text_24">
+      <!-- Upper Leg Length -->
+      <g style="fill:#262626;" transform="translate(252.313885 249.013394)rotate(-45)scale(0.09 -0.09)">
+       <use xlink:href="#WorkSans-Regular-55"/>
+       <use x="70.799988" xlink:href="#WorkSans-Regular-70"/>
+       <use x="133.499985" xlink:href="#WorkSans-Regular-70"/>
+       <use x="196.199982" xlink:href="#WorkSans-Regular-65"/>
+       <use x="253.899979" xlink:href="#WorkSans-Regular-72"/>
+       <use x="294.699966" xlink:href="#WorkSans-Regular-20"/>
+       <use x="328.799957" xlink:href="#WorkSans-Regular-4c"/>
+       <use x="388.599945" xlink:href="#WorkSans-Regular-65"/>
+       <use x="446.299942" xlink:href="#WorkSans-Regular-67"/>
+       <use x="499.499939" xlink:href="#WorkSans-Regular-20"/>
+       <use x="533.59993" xlink:href="#WorkSans-Regular-4c"/>
+       <use x="593.399918" xlink:href="#WorkSans-Regular-65"/>
+       <use x="651.099915" xlink:href="#WorkSans-Regular-6e"/>
+       <use x="712.999908" xlink:href="#WorkSans-Regular-67"/>
+       <use x="766.199905" xlink:href="#WorkSans-Regular-74"/>
+       <use x="808.099899" xlink:href="#WorkSans-Regular-68"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_25">
+     <g id="text_25">
+      <!-- Waist Circumference -->
+      <g style="fill:#262626;" transform="translate(252.021149 259.07243)rotate(-45)scale(0.09 -0.09)">
+       <use xlink:href="#WorkSans-Regular-57"/>
+       <use x="96.099991" xlink:href="#WorkSans-Regular-61"/>
+       <use x="152.699982" xlink:href="#WorkSans-Regular-69"/>
+       <use x="179.299973" xlink:href="#WorkSans-Regular-73"/>
+       <use x="231.999969" xlink:href="#WorkSans-Regular-74"/>
+       <use x="273.899963" xlink:href="#WorkSans-Regular-20"/>
+       <use x="307.999954" xlink:href="#WorkSans-Regular-43"/>
+       <use x="376.599945" xlink:href="#WorkSans-Regular-69"/>
+       <use x="403.199936" xlink:href="#WorkSans-Regular-72"/>
+       <use x="443.999924" xlink:href="#WorkSans-Regular-63"/>
+       <use x="499.999908" xlink:href="#WorkSans-Regular-75"/>
+       <use x="561.699905" xlink:href="#WorkSans-Regular-6d"/>
+       <use x="656.999893" xlink:href="#WorkSans-Regular-66"/>
+       <use x="696.299881" xlink:href="#WorkSans-Regular-65"/>
+       <use x="753.999878" xlink:href="#WorkSans-Regular-72"/>
+       <use x="794.799866" xlink:href="#WorkSans-Regular-65"/>
+       <use x="852.499863" xlink:href="#WorkSans-Regular-6e"/>
+       <use x="914.399857" xlink:href="#WorkSans-Regular-63"/>
+       <use x="970.399841" xlink:href="#WorkSans-Regular-65"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_26">
+     <g id="text_26">
+      <!-- Weight -->
+      <g style="fill:#262626;" transform="translate(305.677899 215.118341)rotate(-45)scale(0.09 -0.09)">
+       <use xlink:href="#WorkSans-Regular-57"/>
+       <use x="96.099991" xlink:href="#WorkSans-Regular-65"/>
+       <use x="153.799988" xlink:href="#WorkSans-Regular-69"/>
+       <use x="180.399979" xlink:href="#WorkSans-Regular-67"/>
+       <use x="233.599976" xlink:href="#WorkSans-Regular-68"/>
+       <use x="295.499969" xlink:href="#WorkSans-Regular-74"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_27">
+     <g id="text_27">
+      <!-- Sex -->
+      <g style="fill:#262626;" transform="translate(325.773704 204.788837)rotate(-45)scale(0.09 -0.09)">
+       <use xlink:href="#WorkSans-Regular-53"/>
+       <use x="64.099991" xlink:href="#WorkSans-Regular-65"/>
+       <use x="121.799988" xlink:href="#WorkSans-Regular-78"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_28">
+     <g id="text_28">
+      <!-- Race -->
+      <g style="fill:#262626;" transform="translate(331.581422 208.715599)rotate(-45)scale(0.09 -0.09)">
+       <use xlink:href="#WorkSans-Regular-52"/>
+       <use x="66.499985" xlink:href="#WorkSans-Regular-61"/>
+       <use x="123.099976" xlink:href="#WorkSans-Regular-63"/>
+       <use x="179.09996" xlink:href="#WorkSans-Regular-65"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_29">
+     <g id="text_29">
+      <!-- PM10 -->
+      <g style="fill:#262626;" transform="translate(340.6278 209.403703)rotate(-45)scale(0.09 -0.09)">
+       <defs>
+        <path d="M 1331 0 
+L 1331 3098 
+Q 1331 3206 1334 3331 
+Q 1338 3456 1344 3590 
+Q 1126 3379 838 3222 
+Q 550 3066 250 2995 
+L 115 3462 
+Q 230 3475 406 3548 
+Q 582 3622 777 3734 
+Q 973 3846 1139 3974 
+Q 1306 4102 1395 4224 
+L 1843 4224 
+L 1843 0 
+L 1331 0 
+z
+" id="WorkSans-Regular-31" transform="scale(0.015625)"/>
+        <path d="M 1990 -64 
+Q 1274 -64 845 493 
+Q 416 1050 416 2112 
+Q 416 3174 845 3731 
+Q 1274 4288 1990 4288 
+Q 2714 4288 3139 3731 
+Q 3565 3174 3565 2112 
+Q 3565 1050 3139 493 
+Q 2714 -64 1990 -64 
+z
+M 1990 397 
+Q 2330 397 2563 592 
+Q 2797 787 2915 1171 
+Q 3034 1555 3034 2112 
+Q 3034 2669 2915 3053 
+Q 2797 3437 2563 3632 
+Q 2330 3827 1990 3827 
+Q 1651 3827 1417 3632 
+Q 1184 3437 1065 3053 
+Q 947 2669 947 2112 
+Q 947 1555 1065 1171 
+Q 1184 787 1417 592 
+Q 1651 397 1990 397 
+z
+" id="WorkSans-Regular-30" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#WorkSans-Regular-50"/>
+       <use x="60.999985" xlink:href="#WorkSans-Regular-4d"/>
+       <use x="146.399979" xlink:href="#WorkSans-Regular-31"/>
+       <use x="185.399963" xlink:href="#WorkSans-Regular-30"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_30">
+     <g id="text_30">
+      <!-- PM2.5 -->
+      <g style="fill:#262626;" transform="translate(347.696377 212.069606)rotate(-45)scale(0.09 -0.09)">
+       <defs>
+        <path d="M 474 0 
+L 474 416 
+Q 1107 883 1532 1235 
+Q 1958 1587 2214 1875 
+Q 2470 2163 2579 2422 
+Q 2688 2682 2688 2963 
+Q 2688 3341 2448 3574 
+Q 2208 3808 1792 3808 
+Q 1357 3808 1094 3523 
+Q 832 3238 787 2765 
+L 339 3034 
+Q 397 3405 579 3686 
+Q 762 3968 1072 4128 
+Q 1382 4288 1811 4288 
+Q 2138 4288 2397 4192 
+Q 2656 4096 2841 3920 
+Q 3027 3744 3126 3501 
+Q 3226 3258 3226 2963 
+Q 3226 2566 3034 2185 
+Q 2842 1805 2400 1389 
+Q 1958 973 1203 467 
+L 1203 461 
+Q 1274 467 1398 470 
+Q 1523 474 1648 477 
+Q 1773 480 1837 480 
+L 3315 480 
+L 3315 0 
+L 474 0 
+z
+" id="WorkSans-Regular-32" transform="scale(0.015625)"/>
+        <path d="M 851 768 
+Q 1037 768 1152 653 
+Q 1267 538 1267 352 
+Q 1267 166 1152 51 
+Q 1037 -64 851 -64 
+Q 666 -64 550 51 
+Q 435 166 435 352 
+Q 435 538 550 653 
+Q 666 768 851 768 
+z
+" id="WorkSans-Regular-2e" transform="scale(0.015625)"/>
+        <path d="M 1837 -64 
+Q 1274 -64 931 192 
+Q 589 448 403 902 
+L 902 1165 
+Q 1005 832 1219 624 
+Q 1434 416 1850 416 
+Q 2144 416 2352 525 
+Q 2560 634 2675 835 
+Q 2790 1037 2790 1318 
+Q 2790 1619 2684 1820 
+Q 2579 2022 2380 2124 
+Q 2182 2227 1894 2227 
+Q 1690 2227 1514 2185 
+Q 1338 2144 1197 2054 
+Q 1056 1965 954 1818 
+L 506 1901 
+L 755 4224 
+L 3130 4224 
+L 3130 3744 
+L 1190 3744 
+L 1024 2413 
+L 1011 2355 
+L 1024 2355 
+Q 1178 2515 1418 2611 
+Q 1658 2707 1990 2707 
+Q 2394 2707 2691 2537 
+Q 2989 2368 3155 2061 
+Q 3322 1754 3322 1344 
+Q 3322 1018 3213 755 
+Q 3104 493 2905 310 
+Q 2707 128 2435 32 
+Q 2163 -64 1837 -64 
+z
+" id="WorkSans-Regular-35" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#WorkSans-Regular-50"/>
+       <use x="60.999985" xlink:href="#WorkSans-Regular-4d"/>
+       <use x="146.399979" xlink:href="#WorkSans-Regular-32"/>
+       <use x="204.699966" xlink:href="#WorkSans-Regular-2e"/>
+       <use x="231.299957" xlink:href="#WorkSans-Regular-35"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_31">
+     <g id="text_31">
+      <!-- Smoke Exposure -->
+      <g style="fill:#262626;" transform="translate(323.632259 245.868205)rotate(-45)scale(0.09 -0.09)">
+       <use xlink:href="#WorkSans-Regular-53"/>
+       <use x="64.099991" xlink:href="#WorkSans-Regular-6d"/>
+       <use x="159.399979" xlink:href="#WorkSans-Regular-6f"/>
+       <use x="219.399963" xlink:href="#WorkSans-Regular-6b"/>
+       <use x="276.09996" xlink:href="#WorkSans-Regular-65"/>
+       <use x="333.799957" xlink:href="#WorkSans-Regular-20"/>
+       <use x="367.899948" xlink:href="#WorkSans-Regular-45"/>
+       <use x="431.699936" xlink:href="#WorkSans-Regular-78"/>
+       <use x="484.999924" xlink:href="#WorkSans-Regular-70"/>
+       <use x="547.699921" xlink:href="#WorkSans-Regular-6f"/>
+       <use x="607.699905" xlink:href="#WorkSans-Regular-73"/>
+       <use x="660.399902" xlink:href="#WorkSans-Regular-75"/>
+       <use x="722.099899" xlink:href="#WorkSans-Regular-72"/>
+       <use x="762.899887" xlink:href="#WorkSans-Regular-65"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_32">
+     <g id="text_32">
+      <!-- English Language -->
+      <g style="fill:#262626;" transform="translate(331.749896 247.453229)rotate(-45)scale(0.09 -0.09)">
+       <use xlink:href="#WorkSans-Regular-45"/>
+       <use x="63.799988" xlink:href="#WorkSans-Regular-6e"/>
+       <use x="125.699982" xlink:href="#WorkSans-Regular-67"/>
+       <use x="178.899979" xlink:href="#WorkSans-Regular-6c"/>
+       <use x="209.499969" xlink:href="#WorkSans-Regular-69"/>
+       <use x="236.09996" xlink:href="#WorkSans-Regular-73"/>
+       <use x="288.799957" xlink:href="#WorkSans-Regular-68"/>
+       <use x="350.699951" xlink:href="#WorkSans-Regular-20"/>
+       <use x="384.799942" xlink:href="#WorkSans-Regular-4c"/>
+       <use x="444.59993" xlink:href="#WorkSans-Regular-61"/>
+       <use x="501.199921" xlink:href="#WorkSans-Regular-6e"/>
+       <use x="563.099915" xlink:href="#WorkSans-Regular-67"/>
+       <use x="616.299911" xlink:href="#WorkSans-Regular-75"/>
+       <use x="677.999908" xlink:href="#WorkSans-Regular-61"/>
+       <use x="734.599899" xlink:href="#WorkSans-Regular-67"/>
+       <use x="787.799896" xlink:href="#WorkSans-Regular-65"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_33">
+     <g id="text_33">
+      <!-- Health Insurance -->
+      <g style="fill:#262626;" transform="translate(342.177452 246.791974)rotate(-45)scale(0.09 -0.09)">
+       <use xlink:href="#WorkSans-Regular-48"/>
+       <use x="73.399994" xlink:href="#WorkSans-Regular-65"/>
+       <use x="131.099991" xlink:href="#WorkSans-Regular-61"/>
+       <use x="187.699982" xlink:href="#WorkSans-Regular-6c"/>
+       <use x="218.299973" xlink:href="#WorkSans-Regular-74"/>
+       <use x="260.199966" xlink:href="#WorkSans-Regular-68"/>
+       <use x="322.09996" xlink:href="#WorkSans-Regular-20"/>
+       <use x="356.199951" xlink:href="#WorkSans-Regular-49"/>
+       <use x="385.799942" xlink:href="#WorkSans-Regular-6e"/>
+       <use x="447.699936" xlink:href="#WorkSans-Regular-73"/>
+       <use x="500.399933" xlink:href="#WorkSans-Regular-75"/>
+       <use x="562.09993" xlink:href="#WorkSans-Regular-72"/>
+       <use x="602.899918" xlink:href="#WorkSans-Regular-61"/>
+       <use x="659.499908" xlink:href="#WorkSans-Regular-6e"/>
+       <use x="721.399902" xlink:href="#WorkSans-Regular-63"/>
+       <use x="777.399887" xlink:href="#WorkSans-Regular-65"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_34">
+     <g id="text_34">
+      <!-- High School Graduate -->
+      <g style="fill:#262626;" transform="translate(337.16743 261.504656)rotate(-45)scale(0.09 -0.09)">
+       <defs>
+        <path d="M 2394 -64 
+Q 1792 -64 1353 201 
+Q 915 467 675 953 
+Q 435 1440 435 2112 
+Q 435 2784 688 3270 
+Q 941 3757 1395 4022 
+Q 1850 4288 2438 4288 
+Q 3066 4288 3459 4051 
+Q 3853 3814 4096 3322 
+L 3629 3066 
+Q 3488 3430 3184 3619 
+Q 2880 3808 2438 3808 
+Q 2010 3808 1680 3606 
+Q 1350 3405 1161 3024 
+Q 973 2643 973 2112 
+Q 973 1581 1136 1200 
+Q 1299 819 1622 617 
+Q 1946 416 2413 416 
+Q 2675 416 2902 483 
+Q 3130 550 3299 684 
+Q 3469 819 3565 1024 
+Q 3661 1229 3661 1504 
+L 3661 1651 
+L 2317 1651 
+L 2317 2131 
+L 4128 2131 
+L 4128 0 
+L 3725 0 
+L 3699 787 
+L 3808 768 
+Q 3642 371 3283 153 
+Q 2925 -64 2394 -64 
+z
+" id="WorkSans-Regular-47" transform="scale(0.015625)"/>
+        <path d="M 1843 -64 
+Q 1446 -64 1113 134 
+Q 781 333 582 707 
+Q 384 1082 384 1600 
+Q 384 2131 595 2502 
+Q 806 2874 1152 3069 
+Q 1498 3264 1894 3264 
+Q 2291 3264 2582 3059 
+Q 2874 2854 2970 2515 
+L 2906 2470 
+L 2906 4672 
+L 3418 4672 
+L 3418 0 
+L 2970 0 
+L 2925 774 
+L 2995 813 
+Q 2950 531 2780 336 
+Q 2611 141 2364 38 
+Q 2118 -64 1843 -64 
+z
+M 1894 384 
+Q 2202 384 2429 537 
+Q 2656 691 2781 976 
+Q 2906 1261 2906 1645 
+Q 2906 2010 2781 2272 
+Q 2656 2534 2435 2675 
+Q 2214 2816 1920 2816 
+Q 1434 2816 1165 2483 
+Q 896 2150 896 1600 
+Q 896 1050 1158 717 
+Q 1421 384 1894 384 
+z
+" id="WorkSans-Regular-64" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#WorkSans-Regular-48"/>
+       <use x="73.399994" xlink:href="#WorkSans-Regular-69"/>
+       <use x="99.999985" xlink:href="#WorkSans-Regular-67"/>
+       <use x="153.199982" xlink:href="#WorkSans-Regular-68"/>
+       <use x="215.099976" xlink:href="#WorkSans-Regular-20"/>
+       <use x="249.199966" xlink:href="#WorkSans-Regular-53"/>
+       <use x="313.299957" xlink:href="#WorkSans-Regular-63"/>
+       <use x="369.299942" xlink:href="#WorkSans-Regular-68"/>
+       <use x="431.199936" xlink:href="#WorkSans-Regular-6f"/>
+       <use x="491.199921" xlink:href="#WorkSans-Regular-6f"/>
+       <use x="551.199905" xlink:href="#WorkSans-Regular-6c"/>
+       <use x="581.799896" xlink:href="#WorkSans-Regular-20"/>
+       <use x="615.899887" xlink:href="#WorkSans-Regular-47"/>
+       <use x="688.299881" xlink:href="#WorkSans-Regular-72"/>
+       <use x="729.099869" xlink:href="#WorkSans-Regular-61"/>
+       <use x="785.69986" xlink:href="#WorkSans-Regular-64"/>
+       <use x="848.399857" xlink:href="#WorkSans-Regular-75"/>
+       <use x="910.099854" xlink:href="#WorkSans-Regular-61"/>
+       <use x="966.699844" xlink:href="#WorkSans-Regular-74"/>
+       <use x="1008.599838" xlink:href="#WorkSans-Regular-65"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_35">
+     <g id="text_35">
+      <!-- Household Size -->
+      <g style="fill:#262626;" transform="translate(366.642122 241.796264)rotate(-45)scale(0.09 -0.09)">
+       <defs>
+        <path d="M 365 0 
+L 365 390 
+L 2042 2355 
+L 2445 2771 
+L 1875 2758 
+L 384 2758 
+L 384 3200 
+L 3014 3200 
+L 3014 2810 
+L 1338 845 
+L 941 429 
+L 1562 442 
+L 3066 442 
+L 3066 0 
+L 365 0 
+z
+" id="WorkSans-Regular-7a" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#WorkSans-Regular-48"/>
+       <use x="73.399994" xlink:href="#WorkSans-Regular-6f"/>
+       <use x="133.399979" xlink:href="#WorkSans-Regular-75"/>
+       <use x="195.099976" xlink:href="#WorkSans-Regular-73"/>
+       <use x="247.799973" xlink:href="#WorkSans-Regular-65"/>
+       <use x="305.499969" xlink:href="#WorkSans-Regular-68"/>
+       <use x="367.399963" xlink:href="#WorkSans-Regular-6f"/>
+       <use x="427.399948" xlink:href="#WorkSans-Regular-6c"/>
+       <use x="457.999939" xlink:href="#WorkSans-Regular-64"/>
+       <use x="520.699936" xlink:href="#WorkSans-Regular-20"/>
+       <use x="554.799927" xlink:href="#WorkSans-Regular-53"/>
+       <use x="618.899918" xlink:href="#WorkSans-Regular-69"/>
+       <use x="645.499908" xlink:href="#WorkSans-Regular-7a"/>
+       <use x="698.899902" xlink:href="#WorkSans-Regular-65"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_36">
+     <g id="text_36">
+      <!-- Immigrant -->
+      <g style="fill:#262626;" transform="translate(392.599732 225.509496)rotate(-45)scale(0.09 -0.09)">
+       <use xlink:href="#WorkSans-Regular-49"/>
+       <use x="29.599991" xlink:href="#WorkSans-Regular-6d"/>
+       <use x="124.899979" xlink:href="#WorkSans-Regular-6d"/>
+       <use x="220.199966" xlink:href="#WorkSans-Regular-69"/>
+       <use x="246.799957" xlink:href="#WorkSans-Regular-67"/>
+       <use x="299.999954" xlink:href="#WorkSans-Regular-72"/>
+       <use x="340.799942" xlink:href="#WorkSans-Regular-61"/>
+       <use x="397.399933" xlink:href="#WorkSans-Regular-6e"/>
+       <use x="459.299927" xlink:href="#WorkSans-Regular-74"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_37">
+     <g id="text_37">
+      <!-- Income:Poverty -->
+      <g style="fill:#262626;" transform="translate(386.175718 241.667991)rotate(-45)scale(0.09 -0.09)">
+       <defs>
+        <path d="M 947 3264 
+Q 1133 3264 1248 3149 
+Q 1363 3034 1363 2848 
+Q 1363 2662 1248 2547 
+Q 1133 2432 947 2432 
+Q 762 2432 646 2547 
+Q 531 2662 531 2848 
+Q 531 3034 646 3149 
+Q 762 3264 947 3264 
+z
+M 947 768 
+Q 1133 768 1248 653 
+Q 1363 538 1363 352 
+Q 1363 166 1248 51 
+Q 1133 -64 947 -64 
+Q 762 -64 646 51 
+Q 531 166 531 352 
+Q 531 538 646 653 
+Q 762 768 947 768 
+z
+" id="WorkSans-Regular-3a" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#WorkSans-Regular-49"/>
+       <use x="29.599991" xlink:href="#WorkSans-Regular-6e"/>
+       <use x="91.499985" xlink:href="#WorkSans-Regular-63"/>
+       <use x="147.499969" xlink:href="#WorkSans-Regular-6f"/>
+       <use x="207.499954" xlink:href="#WorkSans-Regular-6d"/>
+       <use x="302.799942" xlink:href="#WorkSans-Regular-65"/>
+       <use x="360.499939" xlink:href="#WorkSans-Regular-3a"/>
+       <use x="390.09993" xlink:href="#WorkSans-Regular-50"/>
+       <use x="451.099915" xlink:href="#WorkSans-Regular-6f"/>
+       <use x="511.099899" xlink:href="#WorkSans-Regular-76"/>
+       <use x="563.099884" xlink:href="#WorkSans-Regular-65"/>
+       <use x="620.799881" xlink:href="#WorkSans-Regular-72"/>
+       <use x="661.599869" xlink:href="#WorkSans-Regular-74"/>
+       <use x="703.499863" xlink:href="#WorkSans-Regular-79"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_38">
+     <g id="text_38">
+      <!-- Married -->
+      <g style="fill:#262626;" transform="translate(420.411449 217.23038)rotate(-45)scale(0.09 -0.09)">
+       <use xlink:href="#WorkSans-Regular-4d"/>
+       <use x="85.399994" xlink:href="#WorkSans-Regular-61"/>
+       <use x="141.999985" xlink:href="#WorkSans-Regular-72"/>
+       <use x="182.799973" xlink:href="#WorkSans-Regular-72"/>
+       <use x="223.59996" xlink:href="#WorkSans-Regular-69"/>
+       <use x="250.199951" xlink:href="#WorkSans-Regular-65"/>
+       <use x="307.899948" xlink:href="#WorkSans-Regular-64"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_39">
+     <g id="text_39">
+      <!-- Military Health -->
+      <g style="fill:#262626;" transform="translate(408.114692 239.229798)rotate(-45)scale(0.09 -0.09)">
+       <use xlink:href="#WorkSans-Regular-4d"/>
+       <use x="85.399994" xlink:href="#WorkSans-Regular-69"/>
+       <use x="111.999985" xlink:href="#WorkSans-Regular-6c"/>
+       <use x="142.599976" xlink:href="#WorkSans-Regular-69"/>
+       <use x="169.199966" xlink:href="#WorkSans-Regular-74"/>
+       <use x="211.09996" xlink:href="#WorkSans-Regular-61"/>
+       <use x="267.699951" xlink:href="#WorkSans-Regular-72"/>
+       <use x="308.499939" xlink:href="#WorkSans-Regular-79"/>
+       <use x="360.09993" xlink:href="#WorkSans-Regular-20"/>
+       <use x="394.199921" xlink:href="#WorkSans-Regular-48"/>
+       <use x="467.599915" xlink:href="#WorkSans-Regular-65"/>
+       <use x="525.299911" xlink:href="#WorkSans-Regular-61"/>
+       <use x="581.899902" xlink:href="#WorkSans-Regular-6c"/>
+       <use x="612.499893" xlink:href="#WorkSans-Regular-74"/>
+       <use x="654.399887" xlink:href="#WorkSans-Regular-68"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_40">
+     <g id="text_40">
+      <!-- Private Insurance -->
+      <g style="fill:#262626;" transform="translate(409.397037 247.713754)rotate(-45)scale(0.09 -0.09)">
+       <use xlink:href="#WorkSans-Regular-50"/>
+       <use x="60.999985" xlink:href="#WorkSans-Regular-72"/>
+       <use x="101.799973" xlink:href="#WorkSans-Regular-69"/>
+       <use x="128.399963" xlink:href="#WorkSans-Regular-76"/>
+       <use x="180.399948" xlink:href="#WorkSans-Regular-61"/>
+       <use x="236.999939" xlink:href="#WorkSans-Regular-74"/>
+       <use x="278.899933" xlink:href="#WorkSans-Regular-65"/>
+       <use x="336.59993" xlink:href="#WorkSans-Regular-20"/>
+       <use x="370.699921" xlink:href="#WorkSans-Regular-49"/>
+       <use x="400.299911" xlink:href="#WorkSans-Regular-6e"/>
+       <use x="462.199905" xlink:href="#WorkSans-Regular-73"/>
+       <use x="514.899902" xlink:href="#WorkSans-Regular-75"/>
+       <use x="576.599899" xlink:href="#WorkSans-Regular-72"/>
+       <use x="617.399887" xlink:href="#WorkSans-Regular-61"/>
+       <use x="673.999878" xlink:href="#WorkSans-Regular-6e"/>
+       <use x="735.899872" xlink:href="#WorkSans-Regular-63"/>
+       <use x="791.899857" xlink:href="#WorkSans-Regular-65"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_41">
+     <g id="text_41">
+      <!-- Veteran -->
+      <g style="fill:#262626;" transform="translate(448.926788 217.918484)rotate(-45)scale(0.09 -0.09)">
+       <defs>
+        <path d="M 3968 4224 
+L 2368 0 
+L 1786 0 
+L 179 4224 
+L 730 4224 
+L 1805 1306 
+L 2074 467 
+L 2342 1299 
+L 3418 4224 
+L 3968 4224 
+z
+" id="WorkSans-Regular-56" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#WorkSans-Regular-56"/>
+       <use x="64.799988" xlink:href="#WorkSans-Regular-65"/>
+       <use x="122.499985" xlink:href="#WorkSans-Regular-74"/>
+       <use x="164.399979" xlink:href="#WorkSans-Regular-65"/>
+       <use x="222.099976" xlink:href="#WorkSans-Regular-72"/>
+       <use x="262.899963" xlink:href="#WorkSans-Regular-61"/>
+       <use x="319.499954" xlink:href="#WorkSans-Regular-6e"/>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="text_42">
+      <!-- 0 -->
+      <g style="fill:#262626;" transform="translate(59.333354 182.550303)scale(0.07 -0.07)">
+       <use xlink:href="#WorkSans-Regular-30"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="text_43">
+      <!-- 50 -->
+      <g style="fill:#262626;" transform="translate(55.259135 159.076202)scale(0.07 -0.07)">
+       <use xlink:href="#WorkSans-Regular-35"/>
+       <use x="58.199997" xlink:href="#WorkSans-Regular-30"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="text_44">
+      <!-- 100 -->
+      <g style="fill:#262626;" transform="translate(52.249135 135.602101)scale(0.07 -0.07)">
+       <use xlink:href="#WorkSans-Regular-31"/>
+       <use x="38.999985" xlink:href="#WorkSans-Regular-30"/>
+       <use x="101.199982" xlink:href="#WorkSans-Regular-30"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="text_45">
+      <!-- 150 -->
+      <g style="fill:#262626;" transform="translate(52.529135 112.127999)scale(0.07 -0.07)">
+       <use xlink:href="#WorkSans-Regular-31"/>
+       <use x="38.999985" xlink:href="#WorkSans-Regular-35"/>
+       <use x="97.199982" xlink:href="#WorkSans-Regular-30"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="text_46">
+      <!-- 200 -->
+      <g style="fill:#262626;" transform="translate(50.898354 88.653898)scale(0.07 -0.07)">
+       <use xlink:href="#WorkSans-Regular-32"/>
+       <use x="58.299988" xlink:href="#WorkSans-Regular-30"/>
+       <use x="120.499985" xlink:href="#WorkSans-Regular-30"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="text_47">
+      <!-- 250 -->
+      <g style="fill:#262626;" transform="translate(51.178354 65.179797)scale(0.07 -0.07)">
+       <use xlink:href="#WorkSans-Regular-32"/>
+       <use x="58.299988" xlink:href="#WorkSans-Regular-35"/>
+       <use x="116.499985" xlink:href="#WorkSans-Regular-30"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_7">
+     <g id="text_48">
+      <!-- 300 -->
+      <g style="fill:#262626;" transform="translate(50.898354 41.705696)scale(0.07 -0.07)">
+       <defs>
+        <path d="M 1856 -64 
+Q 1293 -64 861 201 
+Q 429 467 275 934 
+L 787 1197 
+Q 864 960 998 784 
+Q 1133 608 1353 512 
+Q 1574 416 1907 416 
+Q 2189 416 2381 518 
+Q 2573 621 2675 797 
+Q 2778 973 2778 1203 
+Q 2778 1434 2691 1587 
+Q 2605 1741 2419 1814 
+Q 2234 1888 1933 1888 
+Q 1862 1888 1779 1885 
+Q 1696 1882 1606 1869 
+L 1606 2381 
+Q 1664 2374 1718 2374 
+Q 1773 2374 1818 2374 
+Q 2285 2374 2483 2556 
+Q 2682 2739 2682 3130 
+Q 2682 3462 2477 3635 
+Q 2272 3808 1894 3808 
+Q 1491 3808 1280 3632 
+Q 1069 3456 947 3155 
+L 461 3386 
+Q 563 3654 768 3859 
+Q 973 4064 1264 4179 
+Q 1555 4294 1907 4294 
+Q 2349 4294 2637 4144 
+Q 2925 3994 3069 3744 
+Q 3213 3494 3213 3194 
+Q 3213 2963 3149 2780 
+Q 3085 2598 2973 2464 
+Q 2861 2330 2720 2250 
+Q 2579 2170 2419 2144 
+L 2419 2131 
+Q 2630 2125 2793 2048 
+Q 2957 1971 3072 1843 
+Q 3187 1715 3248 1552 
+Q 3309 1389 3309 1210 
+Q 3309 838 3126 550 
+Q 2944 262 2617 99 
+Q 2291 -64 1856 -64 
+z
+" id="WorkSans-Regular-33" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#WorkSans-Regular-33"/>
+       <use x="58.299988" xlink:href="#WorkSans-Regular-30"/>
+       <use x="120.499985" xlink:href="#WorkSans-Regular-30"/>
+      </g>
+     </g>
+    </g>
+    <g id="text_49">
+     <!-- $-\log_{10}(p)$ -->
+     <g style="fill:#262626;" transform="translate(46.798354 133.105244)rotate(-90)scale(0.1 -0.1)">
+      <defs>
+       <path d="M 678 2272 
+L 4684 2272 
+L 4684 1741 
+L 678 1741 
+L 678 2272 
+z
+" id="DejaVuSans-2212" transform="scale(0.015625)"/>
+       <path d="M 603 4863 
+L 1178 4863 
+L 1178 0 
+L 603 0 
+L 603 4863 
+z
+" id="DejaVuSans-6c" transform="scale(0.015625)"/>
+       <path d="M 1959 3097 
+Q 1497 3097 1228 2736 
+Q 959 2375 959 1747 
+Q 959 1119 1226 758 
+Q 1494 397 1959 397 
+Q 2419 397 2687 759 
+Q 2956 1122 2956 1747 
+Q 2956 2369 2687 2733 
+Q 2419 3097 1959 3097 
+z
+M 1959 3584 
+Q 2709 3584 3137 3096 
+Q 3566 2609 3566 1747 
+Q 3566 888 3137 398 
+Q 2709 -91 1959 -91 
+Q 1206 -91 779 398 
+Q 353 888 353 1747 
+Q 353 2609 779 3096 
+Q 1206 3584 1959 3584 
+z
+" id="DejaVuSans-6f" transform="scale(0.015625)"/>
+       <path d="M 2906 1791 
+Q 2906 2416 2648 2759 
+Q 2391 3103 1925 3103 
+Q 1463 3103 1205 2759 
+Q 947 2416 947 1791 
+Q 947 1169 1205 825 
+Q 1463 481 1925 481 
+Q 2391 481 2648 825 
+Q 2906 1169 2906 1791 
+z
+M 3481 434 
+Q 3481 -459 3084 -895 
+Q 2688 -1331 1869 -1331 
+Q 1566 -1331 1297 -1286 
+Q 1028 -1241 775 -1147 
+L 775 -588 
+Q 1028 -725 1275 -790 
+Q 1522 -856 1778 -856 
+Q 2344 -856 2625 -561 
+Q 2906 -266 2906 331 
+L 2906 616 
+Q 2728 306 2450 153 
+Q 2172 0 1784 0 
+Q 1141 0 747 490 
+Q 353 981 353 1791 
+Q 353 2603 747 3093 
+Q 1141 3584 1784 3584 
+Q 2172 3584 2450 3431 
+Q 2728 3278 2906 2969 
+L 2906 3500 
+L 3481 3500 
+L 3481 434 
+z
+" id="DejaVuSans-67" transform="scale(0.015625)"/>
+       <path d="M 794 531 
+L 1825 531 
+L 1825 4091 
+L 703 3866 
+L 703 4441 
+L 1819 4666 
+L 2450 4666 
+L 2450 531 
+L 3481 531 
+L 3481 0 
+L 794 0 
+L 794 531 
+z
+" id="DejaVuSans-31" transform="scale(0.015625)"/>
+       <path d="M 2034 4250 
+Q 1547 4250 1301 3770 
+Q 1056 3291 1056 2328 
+Q 1056 1369 1301 889 
+Q 1547 409 2034 409 
+Q 2525 409 2770 889 
+Q 3016 1369 3016 2328 
+Q 3016 3291 2770 3770 
+Q 2525 4250 2034 4250 
+z
+M 2034 4750 
+Q 2819 4750 3233 4129 
+Q 3647 3509 3647 2328 
+Q 3647 1150 3233 529 
+Q 2819 -91 2034 -91 
+Q 1250 -91 836 529 
+Q 422 1150 422 2328 
+Q 422 3509 836 4129 
+Q 1250 4750 2034 4750 
+z
+" id="DejaVuSans-30" transform="scale(0.015625)"/>
+       <path d="M 1984 4856 
+Q 1566 4138 1362 3434 
+Q 1159 2731 1159 2009 
+Q 1159 1288 1364 580 
+Q 1569 -128 1984 -844 
+L 1484 -844 
+Q 1016 -109 783 600 
+Q 550 1309 550 2009 
+Q 550 2706 781 3412 
+Q 1013 4119 1484 4856 
+L 1984 4856 
+z
+" id="DejaVuSans-28" transform="scale(0.015625)"/>
+       <path d="M 3175 2156 
+Q 3175 2616 2975 2859 
+Q 2775 3103 2400 3103 
+Q 2144 3103 1911 2972 
+Q 1678 2841 1497 2591 
+Q 1319 2344 1212 1994 
+Q 1106 1644 1106 1300 
+Q 1106 863 1306 627 
+Q 1506 391 1875 391 
+Q 2147 391 2380 519 
+Q 2613 647 2778 891 
+Q 2956 1147 3065 1494 
+Q 3175 1841 3175 2156 
+z
+M 1394 2969 
+Q 1625 3272 1939 3428 
+Q 2253 3584 2638 3584 
+Q 3175 3584 3472 3232 
+Q 3769 2881 3769 2247 
+Q 3769 1728 3584 1258 
+Q 3400 788 3053 416 
+Q 2822 169 2531 39 
+Q 2241 -91 1919 -91 
+Q 1547 -91 1294 64 
+Q 1041 219 916 525 
+L 556 -1331 
+L -19 -1331 
+L 922 3500 
+L 1497 3500 
+L 1394 2969 
+z
+" id="DejaVuSans-Oblique-70" transform="scale(0.015625)"/>
+       <path d="M 513 4856 
+L 1013 4856 
+Q 1481 4119 1714 3412 
+Q 1947 2706 1947 2009 
+Q 1947 1309 1714 600 
+Q 1481 -109 1013 -844 
+L 513 -844 
+Q 928 -128 1133 580 
+Q 1338 1288 1338 2009 
+Q 1338 2731 1133 3434 
+Q 928 4138 513 4856 
+z
+" id="DejaVuSans-29" transform="scale(0.015625)"/>
+      </defs>
+      <use transform="translate(0 0.015625)" xlink:href="#DejaVuSans-2212"/>
+      <use transform="translate(83.789062 0.015625)" xlink:href="#DejaVuSans-6c"/>
+      <use transform="translate(111.572266 0.015625)" xlink:href="#DejaVuSans-6f"/>
+      <use transform="translate(172.753906 0.015625)" xlink:href="#DejaVuSans-67"/>
+      <use transform="translate(237.1875 -16.390625)scale(0.7)" xlink:href="#DejaVuSans-31"/>
+      <use transform="translate(281.723633 -16.390625)scale(0.7)" xlink:href="#DejaVuSans-30"/>
+      <use transform="translate(328.994141 0.015625)" xlink:href="#DejaVuSans-28"/>
+      <use transform="translate(368.007812 0.015625)" xlink:href="#DejaVuSans-Oblique-70"/>
+      <use transform="translate(431.484375 0.015625)" xlink:href="#DejaVuSans-29"/>
+     </g>
+    </g>
+   </g>
+   <g id="line2d_1">
+    <path clip-path="url(#pbf11ed7236)" d="M 65.687573 178.62732 
+L 494.004726 178.62732 
+" style="fill:none;stroke:#ff0000;stroke-dasharray:1.85,0.8;stroke-dashoffset:0;stroke-opacity:0.7;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_2">
+    <path clip-path="url(#pbf11ed7236)" d="M 245.775467 187.000247 
+L 245.775467 32.110241 
+" style="fill:none;stroke:#dddddd;stroke-linecap:round;stroke-width:0.4;"/>
+   </g>
+   <g id="line2d_3">
+    <path clip-path="url(#pbf11ed7236)" d="M 333.385794 187.000247 
+L 333.385794 32.110241 
+" style="fill:none;stroke:#dddddd;stroke-linecap:round;stroke-width:0.4;"/>
+   </g>
+   <g id="line2d_4">
+    <path clip-path="url(#pbf11ed7236)" d="M 343.120274 187.000247 
+L 343.120274 32.110241 
+" style="fill:none;stroke:#dddddd;stroke-linecap:round;stroke-width:0.4;"/>
+   </g>
+   <g id="line2d_5">
+    <path clip-path="url(#pbf11ed7236)" d="M 352.854755 187.000247 
+L 352.854755 32.110241 
+" style="fill:none;stroke:#dddddd;stroke-linecap:round;stroke-width:0.4;"/>
+   </g>
+   <g id="line2d_6">
+    <path clip-path="url(#pbf11ed7236)" d="M 382.058197 187.000247 
+L 382.058197 32.110241 
+" style="fill:none;stroke:#dddddd;stroke-linecap:round;stroke-width:0.4;"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 65.687573 187.000247 
+L 65.687573 32.110241 
+" style="fill:none;stroke:#333333;stroke-linecap:square;stroke-linejoin:miter;stroke-width:0.5;"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 65.687573 187.000247 
+L 494.004726 187.000247 
+" style="fill:none;stroke:#333333;stroke-linecap:square;stroke-linejoin:miter;stroke-width:0.5;"/>
+   </g>
+   <g id="PathCollection_1">
+    <defs>
+     <path d="M 0 2.5 
+C 0.663008 2.5 1.29895 2.236584 1.767767 1.767767 
+C 2.236584 1.29895 2.5 0.663008 2.5 0 
+C 2.5 -0.663008 2.236584 -1.29895 1.767767 -1.767767 
+C 1.29895 -2.236584 0.663008 -2.5 0 -2.5 
+C -0.663008 -2.5 -1.29895 -2.236584 -1.767767 -1.767767 
+C -2.236584 -1.29895 -2.5 -0.663008 -2.5 0 
+C -2.5 0.663008 -2.236584 1.29895 -1.767767 1.767767 
+C -1.29895 2.236584 -0.663008 2.5 0 2.5 
+z
+" id="mbdb4093d8f" style="stroke:#ffffff;stroke-width:0.3;"/>
+    </defs>
+    <g clip-path="url(#pbf11ed7236)">
+     <use style="fill:#999999;stroke:#ffffff;stroke-width:0.3;" x="85.156534" xlink:href="#mbdb4093d8f" y="39.150696"/>
+    </g>
+   </g>
+   <g id="PathCollection_2">
+    <g clip-path="url(#pbf11ed7236)">
+     <use style="fill:#999999;stroke:#ffffff;stroke-width:0.3;" x="94.891015" xlink:href="#mbdb4093d8f" y="179.654094"/>
+    </g>
+   </g>
+   <g id="PathCollection_3">
+    <g clip-path="url(#pbf11ed7236)">
+     <use style="fill:#999999;stroke:#ffffff;stroke-width:0.3;" x="104.625496" xlink:href="#mbdb4093d8f" y="169.955516"/>
+    </g>
+   </g>
+   <g id="PathCollection_4">
+    <g clip-path="url(#pbf11ed7236)">
+     <use style="fill:#999999;stroke:#ffffff;stroke-width:0.3;" x="114.359977" xlink:href="#mbdb4093d8f" y="39.150696"/>
+    </g>
+   </g>
+   <g id="PathCollection_5">
+    <g clip-path="url(#pbf11ed7236)">
+     <use style="fill:#999999;stroke:#ffffff;stroke-width:0.3;" x="124.094457" xlink:href="#mbdb4093d8f" y="178.32203"/>
+    </g>
+   </g>
+   <g id="PathCollection_6">
+    <g clip-path="url(#pbf11ed7236)">
+     <use style="fill:#999999;stroke:#ffffff;stroke-width:0.3;" x="133.828938" xlink:href="#mbdb4093d8f" y="179.425894"/>
+    </g>
+   </g>
+   <g id="PathCollection_7">
+    <g clip-path="url(#pbf11ed7236)">
+     <use style="fill:#999999;stroke:#ffffff;stroke-width:0.3;" x="143.563419" xlink:href="#mbdb4093d8f" y="179.830374"/>
+    </g>
+   </g>
+   <g id="PathCollection_8">
+    <g clip-path="url(#pbf11ed7236)">
+     <use style="fill:#999999;stroke:#ffffff;stroke-width:0.3;" x="153.2979" xlink:href="#mbdb4093d8f" y="161.40757"/>
+    </g>
+   </g>
+   <g id="PathCollection_9">
+    <g clip-path="url(#pbf11ed7236)">
+     <use style="fill:#999999;stroke:#ffffff;stroke-width:0.3;" x="163.03238" xlink:href="#mbdb4093d8f" y="39.150696"/>
+    </g>
+   </g>
+   <g id="PathCollection_10">
+    <g clip-path="url(#pbf11ed7236)">
+     <use style="fill:#999999;stroke:#ffffff;stroke-width:0.3;" x="172.766861" xlink:href="#mbdb4093d8f" y="163.810353"/>
+    </g>
+   </g>
+   <g id="PathCollection_11">
+    <g clip-path="url(#pbf11ed7236)">
+     <use style="fill:#999999;stroke:#ffffff;stroke-width:0.3;" x="182.501342" xlink:href="#mbdb4093d8f" y="133.76502"/>
+    </g>
+   </g>
+   <g id="PathCollection_12">
+    <g clip-path="url(#pbf11ed7236)">
+     <use style="fill:#999999;stroke:#ffffff;stroke-width:0.3;" x="192.235823" xlink:href="#mbdb4093d8f" y="179.959792"/>
+    </g>
+   </g>
+   <g id="PathCollection_13">
+    <g clip-path="url(#pbf11ed7236)">
+     <use style="fill:#999999;stroke:#ffffff;stroke-width:0.3;" x="201.970303" xlink:href="#mbdb4093d8f" y="171.728608"/>
+    </g>
+   </g>
+   <g id="PathCollection_14">
+    <g clip-path="url(#pbf11ed7236)">
+     <use style="fill:#999999;stroke:#ffffff;stroke-width:0.3;" x="211.704784" xlink:href="#mbdb4093d8f" y="169.936172"/>
+    </g>
+   </g>
+   <g id="PathCollection_15">
+    <g clip-path="url(#pbf11ed7236)">
+     <use style="fill:#999999;stroke:#ffffff;stroke-width:0.3;" x="221.439265" xlink:href="#mbdb4093d8f" y="179.785886"/>
+    </g>
+   </g>
+   <g id="PathCollection_16">
+    <g clip-path="url(#pbf11ed7236)">
+     <use style="fill:#999999;stroke:#ffffff;stroke-width:0.3;" x="231.173746" xlink:href="#mbdb4093d8f" y="142.157078"/>
+    </g>
+   </g>
+   <g id="PathCollection_17">
+    <g clip-path="url(#pbf11ed7236)">
+     <use style="fill:#999999;stroke:#ffffff;stroke-width:0.3;" x="240.908227" xlink:href="#mbdb4093d8f" y="179.377568"/>
+    </g>
+   </g>
+   <g id="PathCollection_18">
+    <defs>
+     <path d="M 0 2.5 
+C 0.663008 2.5 1.29895 2.236584 1.767767 1.767767 
+C 2.236584 1.29895 2.5 0.663008 2.5 0 
+C 2.5 -0.663008 2.236584 -1.29895 1.767767 -1.767767 
+C 1.29895 -2.236584 0.663008 -2.5 0 -2.5 
+C -0.663008 -2.5 -1.29895 -2.236584 -1.767767 -1.767767 
+C -2.236584 -1.29895 -2.5 -0.663008 -2.5 0 
+C -2.5 0.663008 -2.236584 1.29895 -1.767767 1.767767 
+C -1.29895 2.236584 -0.663008 2.5 0 2.5 
+z
+" id="mdac24e1196" style="stroke:#ffffff;stroke-width:0.3;"/>
+    </defs>
+    <g clip-path="url(#pbf11ed7236)">
+     <use style="fill:#0097a7;stroke:#ffffff;stroke-width:0.3;" x="250.642707" xlink:href="#mdac24e1196" y="177.768915"/>
+    </g>
+   </g>
+   <g id="PathCollection_19">
+    <g clip-path="url(#pbf11ed7236)">
+     <use style="fill:#0097a7;stroke:#ffffff;stroke-width:0.3;" x="260.377188" xlink:href="#mdac24e1196" y="156.647258"/>
+    </g>
+   </g>
+   <g id="PathCollection_20">
+    <g clip-path="url(#pbf11ed7236)">
+     <use style="fill:#0097a7;stroke:#ffffff;stroke-width:0.3;" x="270.111669" xlink:href="#mdac24e1196" y="39.150696"/>
+    </g>
+   </g>
+   <g id="PathCollection_21">
+    <g clip-path="url(#pbf11ed7236)">
+     <use style="fill:#0097a7;stroke:#ffffff;stroke-width:0.3;" x="279.84615" xlink:href="#mdac24e1196" y="39.150696"/>
+    </g>
+   </g>
+   <g id="PathCollection_22">
+    <g clip-path="url(#pbf11ed7236)">
+     <use style="fill:#0097a7;stroke:#ffffff;stroke-width:0.3;" x="289.58063" xlink:href="#mdac24e1196" y="157.367988"/>
+    </g>
+   </g>
+   <g id="PathCollection_23">
+    <g clip-path="url(#pbf11ed7236)">
+     <use style="fill:#0097a7;stroke:#ffffff;stroke-width:0.3;" x="299.315111" xlink:href="#mdac24e1196" y="39.150696"/>
+    </g>
+   </g>
+   <g id="PathCollection_24">
+    <g clip-path="url(#pbf11ed7236)">
+     <use style="fill:#0097a7;stroke:#ffffff;stroke-width:0.3;" x="309.049592" xlink:href="#mdac24e1196" y="154.844041"/>
+    </g>
+   </g>
+   <g id="PathCollection_25">
+    <g clip-path="url(#pbf11ed7236)">
+     <use style="fill:#0097a7;stroke:#ffffff;stroke-width:0.3;" x="318.784073" xlink:href="#mdac24e1196" y="39.150696"/>
+    </g>
+   </g>
+   <g id="PathCollection_26">
+    <g clip-path="url(#pbf11ed7236)">
+     <use style="fill:#0097a7;stroke:#ffffff;stroke-width:0.3;" x="328.518553" xlink:href="#mdac24e1196" y="170.726829"/>
+    </g>
+   </g>
+   <g id="PathCollection_27">
+    <g clip-path="url(#pbf11ed7236)">
+     <use style="fill:#999999;stroke:#ffffff;stroke-width:0.3;" x="338.253034" xlink:href="#mbdb4093d8f" y="39.150696"/>
+    </g>
+   </g>
+   <g id="PathCollection_28">
+    <defs>
+     <path d="M 0 2.5 
+C 0.663008 2.5 1.29895 2.236584 1.767767 1.767767 
+C 2.236584 1.29895 2.5 0.663008 2.5 0 
+C 2.5 -0.663008 2.236584 -1.29895 1.767767 -1.767767 
+C 1.29895 -2.236584 0.663008 -2.5 0 -2.5 
+C -0.663008 -2.5 -1.29895 -2.236584 -1.767767 -1.767767 
+C -2.236584 -1.29895 -2.5 -0.663008 -2.5 0 
+C -2.5 0.663008 -2.236584 1.29895 -1.767767 1.767767 
+C -1.29895 2.236584 -0.663008 2.5 0 2.5 
+z
+" id="mbadb20fcb3" style="stroke:#ffffff;stroke-width:0.3;"/>
+    </defs>
+    <g clip-path="url(#pbf11ed7236)">
+     <use style="fill:#e85d4a;stroke:#ffffff;stroke-width:0.3;" x="347.987515" xlink:href="#mbadb20fcb3" y="39.150696"/>
+    </g>
+   </g>
+   <g id="PathCollection_29">
+    <defs>
+     <path d="M 0 2.5 
+C 0.663008 2.5 1.29895 2.236584 1.767767 1.767767 
+C 2.236584 1.29895 2.5 0.663008 2.5 0 
+C 2.5 -0.663008 2.236584 -1.29895 1.767767 -1.767767 
+C 1.29895 -2.236584 0.663008 -2.5 0 -2.5 
+C -0.663008 -2.5 -1.29895 -2.236584 -1.767767 -1.767767 
+C -2.236584 -1.29895 -2.5 -0.663008 -2.5 0 
+C -2.5 0.663008 -2.236584 1.29895 -1.767767 1.767767 
+C -1.29895 2.236584 -0.663008 2.5 0 2.5 
+z
+" id="m9c94b22150" style="stroke:#ffffff;stroke-width:0.3;"/>
+    </defs>
+    <g clip-path="url(#pbf11ed7236)">
+     <use style="fill:#ff8f00;stroke:#ffffff;stroke-width:0.3;" x="357.721996" xlink:href="#m9c94b22150" y="127.755648"/>
+    </g>
+   </g>
+   <g id="PathCollection_30">
+    <g clip-path="url(#pbf11ed7236)">
+     <use style="fill:#ff8f00;stroke:#ffffff;stroke-width:0.3;" x="367.456476" xlink:href="#m9c94b22150" y="114.916219"/>
+    </g>
+   </g>
+   <g id="PathCollection_31">
+    <g clip-path="url(#pbf11ed7236)">
+     <use style="fill:#ff8f00;stroke:#ffffff;stroke-width:0.3;" x="377.190957" xlink:href="#m9c94b22150" y="173.624192"/>
+    </g>
+   </g>
+   <g id="PathCollection_32">
+    <defs>
+     <path d="M 0 2.5 
+C 0.663008 2.5 1.29895 2.236584 1.767767 1.767767 
+C 2.236584 1.29895 2.5 0.663008 2.5 0 
+C 2.5 -0.663008 2.236584 -1.29895 1.767767 -1.767767 
+C 1.29895 -2.236584 0.663008 -2.5 0 -2.5 
+C -0.663008 -2.5 -1.29895 -2.236584 -1.767767 -1.767767 
+C -2.236584 -1.29895 -2.5 -0.663008 -2.5 0 
+C -2.5 0.663008 -2.236584 1.29895 -1.767767 1.767767 
+C -1.29895 2.236584 -0.663008 2.5 0 2.5 
+z
+" id="m3d64bec216" style="stroke:#ffffff;stroke-width:0.3;"/>
+    </defs>
+    <g clip-path="url(#pbf11ed7236)">
+     <use style="fill:#5c6bc0;stroke:#ffffff;stroke-width:0.3;" x="386.925438" xlink:href="#m3d64bec216" y="174.273719"/>
+    </g>
+   </g>
+   <g id="PathCollection_33">
+    <g clip-path="url(#pbf11ed7236)">
+     <use style="fill:#5c6bc0;stroke:#ffffff;stroke-width:0.3;" x="396.659919" xlink:href="#m3d64bec216" y="177.549655"/>
+    </g>
+   </g>
+   <g id="PathCollection_34">
+    <g clip-path="url(#pbf11ed7236)">
+     <use style="fill:#5c6bc0;stroke:#ffffff;stroke-width:0.3;" x="406.394399" xlink:href="#m3d64bec216" y="101.889703"/>
+    </g>
+   </g>
+   <g id="PathCollection_35">
+    <g clip-path="url(#pbf11ed7236)">
+     <use style="fill:#5c6bc0;stroke:#ffffff;stroke-width:0.3;" x="416.12888" xlink:href="#m3d64bec216" y="173.520841"/>
+    </g>
+   </g>
+   <g id="PathCollection_36">
+    <g clip-path="url(#pbf11ed7236)">
+     <use style="fill:#5c6bc0;stroke:#ffffff;stroke-width:0.3;" x="425.863361" xlink:href="#m3d64bec216" y="39.150696"/>
+    </g>
+   </g>
+   <g id="PathCollection_37">
+    <g clip-path="url(#pbf11ed7236)">
+     <use style="fill:#5c6bc0;stroke:#ffffff;stroke-width:0.3;" x="435.597842" xlink:href="#m3d64bec216" y="108.888483"/>
+    </g>
+   </g>
+   <g id="PathCollection_38">
+    <g clip-path="url(#pbf11ed7236)">
+     <use style="fill:#5c6bc0;stroke:#ffffff;stroke-width:0.3;" x="445.332322" xlink:href="#m3d64bec216" y="176.711354"/>
+    </g>
+   </g>
+   <g id="PathCollection_39">
+    <g clip-path="url(#pbf11ed7236)">
+     <use style="fill:#5c6bc0;stroke:#ffffff;stroke-width:0.3;" x="455.066803" xlink:href="#m3d64bec216" y="179.924377"/>
+    </g>
+   </g>
+   <g id="PathCollection_40">
+    <g clip-path="url(#pbf11ed7236)">
+     <use style="fill:#5c6bc0;stroke:#ffffff;stroke-width:0.3;" x="464.801284" xlink:href="#m3d64bec216" y="170.860861"/>
+    </g>
+   </g>
+   <g id="PathCollection_41">
+    <g clip-path="url(#pbf11ed7236)">
+     <use style="fill:#5c6bc0;stroke:#ffffff;stroke-width:0.3;" x="474.535765" xlink:href="#m3d64bec216" y="177.28162"/>
+    </g>
+   </g>
+   <g id="text_50">
+    <!-- a -->
+    <g style="fill:#262626;" transform="translate(1.44 23.741553)scale(0.1 -0.1)">
+     <defs>
+      <path d="M 2176 2029 
+Q 2176 2253 2051 2384 
+Q 1926 2515 1715 2515 
+Q 1504 2515 1353 2409 
+Q 1203 2304 1146 2035 
+L 224 2253 
+Q 314 2714 698 2989 
+Q 1082 3264 1779 3264 
+Q 2246 3264 2576 3126 
+Q 2906 2989 3082 2717 
+Q 3258 2445 3258 2048 
+L 3258 877 
+Q 3258 627 3482 627 
+Q 3597 627 3667 653 
+L 3603 32 
+Q 3411 -58 3136 -58 
+Q 2886 -58 2694 22 
+Q 2502 102 2393 265 
+Q 2285 429 2285 678 
+L 2285 717 
+L 2406 762 
+Q 2406 486 2243 300 
+Q 2080 115 1821 25 
+Q 1562 -64 1280 -64 
+Q 954 -64 710 38 
+Q 467 141 336 336 
+Q 205 531 205 819 
+Q 205 1165 413 1392 
+Q 621 1619 1069 1709 
+L 2278 1958 
+L 2272 1382 
+L 1658 1254 
+Q 1466 1216 1373 1142 
+Q 1280 1069 1280 922 
+Q 1280 781 1382 710 
+Q 1485 640 1626 640 
+Q 1734 640 1833 672 
+Q 1933 704 2009 771 
+Q 2086 838 2131 940 
+Q 2176 1043 2176 1184 
+L 2176 2029 
+z
+" id="WorkSans-Bold-61" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#WorkSans-Bold-61"/>
+    </g>
+   </g>
+   <g id="text_51">
+    <!-- FVC -->
+    <g style="fill:#262626;" transform="translate(504.881069 98.863759)rotate(-270)scale(0.11 -0.11)">
+     <use xlink:href="#WorkSans-Regular-46"/>
+     <use x="60.999985" xlink:href="#WorkSans-Regular-56"/>
+     <use x="125.799973" xlink:href="#WorkSans-Regular-43"/>
+    </g>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="patch_5">
+    <path d="M 65.687573 439.000247 
+L 494.004726 439.000247 
+L 494.004726 284.110241 
+L 65.687573 284.110241 
+z
+" style="fill:#ffffff;"/>
+   </g>
+   <g id="matplotlib.axis_3">
+    <g id="xtick_42">
+     <g id="text_52">
+      <!-- Age -->
+      <g style="fill:#262626;" transform="translate(72.530038 456.872364)rotate(-45)scale(0.09 -0.09)">
+       <use xlink:href="#WorkSans-Regular-41"/>
+       <use x="65.999985" xlink:href="#WorkSans-Regular-67"/>
+       <use x="119.199982" xlink:href="#WorkSans-Regular-65"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_43">
+     <g id="text_53">
+      <!-- Exhaust Fumes -->
+      <g style="fill:#262626;" transform="translate(45.544464 493.656058)rotate(-45)scale(0.09 -0.09)">
+       <use xlink:href="#WorkSans-Regular-45"/>
+       <use x="63.799988" xlink:href="#WorkSans-Regular-78"/>
+       <use x="117.099976" xlink:href="#WorkSans-Regular-68"/>
+       <use x="178.999969" xlink:href="#WorkSans-Regular-61"/>
+       <use x="235.59996" xlink:href="#WorkSans-Regular-75"/>
+       <use x="297.299957" xlink:href="#WorkSans-Regular-73"/>
+       <use x="349.999954" xlink:href="#WorkSans-Regular-74"/>
+       <use x="391.899948" xlink:href="#WorkSans-Regular-20"/>
+       <use x="425.999939" xlink:href="#WorkSans-Regular-46"/>
+       <use x="486.999924" xlink:href="#WorkSans-Regular-75"/>
+       <use x="548.699921" xlink:href="#WorkSans-Regular-6d"/>
+       <use x="643.999908" xlink:href="#WorkSans-Regular-65"/>
+       <use x="701.699905" xlink:href="#WorkSans-Regular-73"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_44">
+     <g id="text_54">
+      <!-- Home Smoke -->
+      <g style="fill:#262626;" transform="translate(61.649866 487.285137)rotate(-45)scale(0.09 -0.09)">
+       <use xlink:href="#WorkSans-Regular-48"/>
+       <use x="73.399994" xlink:href="#WorkSans-Regular-6f"/>
+       <use x="133.399979" xlink:href="#WorkSans-Regular-6d"/>
+       <use x="228.699966" xlink:href="#WorkSans-Regular-65"/>
+       <use x="286.399963" xlink:href="#WorkSans-Regular-20"/>
+       <use x="320.499954" xlink:href="#WorkSans-Regular-53"/>
+       <use x="384.599945" xlink:href="#WorkSans-Regular-6d"/>
+       <use x="479.899933" xlink:href="#WorkSans-Regular-6f"/>
+       <use x="539.899918" xlink:href="#WorkSans-Regular-6b"/>
+       <use x="596.599915" xlink:href="#WorkSans-Regular-65"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_45">
+     <g id="text_55">
+      <!-- Income Level -->
+      <g style="fill:#262626;" transform="translate(71.50566 487.163824)rotate(-45)scale(0.09 -0.09)">
+       <use xlink:href="#WorkSans-Regular-49"/>
+       <use x="29.599991" xlink:href="#WorkSans-Regular-6e"/>
+       <use x="91.499985" xlink:href="#WorkSans-Regular-63"/>
+       <use x="147.499969" xlink:href="#WorkSans-Regular-6f"/>
+       <use x="207.499954" xlink:href="#WorkSans-Regular-6d"/>
+       <use x="302.799942" xlink:href="#WorkSans-Regular-65"/>
+       <use x="360.499939" xlink:href="#WorkSans-Regular-20"/>
+       <use x="394.59993" xlink:href="#WorkSans-Regular-4c"/>
+       <use x="454.399918" xlink:href="#WorkSans-Regular-65"/>
+       <use x="512.099915" xlink:href="#WorkSans-Regular-76"/>
+       <use x="564.099899" xlink:href="#WorkSans-Regular-65"/>
+       <use x="621.799896" xlink:href="#WorkSans-Regular-6c"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_46">
+     <g id="text_56">
+      <!-- Mineral Dust -->
+      <g style="fill:#262626;" transform="translate(83.168222 485.235742)rotate(-45)scale(0.09 -0.09)">
+       <use xlink:href="#WorkSans-Regular-4d"/>
+       <use x="85.399994" xlink:href="#WorkSans-Regular-69"/>
+       <use x="111.999985" xlink:href="#WorkSans-Regular-6e"/>
+       <use x="173.899979" xlink:href="#WorkSans-Regular-65"/>
+       <use x="231.599976" xlink:href="#WorkSans-Regular-72"/>
+       <use x="272.399963" xlink:href="#WorkSans-Regular-61"/>
+       <use x="328.999954" xlink:href="#WorkSans-Regular-6c"/>
+       <use x="359.599945" xlink:href="#WorkSans-Regular-20"/>
+       <use x="393.699936" xlink:href="#WorkSans-Regular-44"/>
+       <use x="465.799927" xlink:href="#WorkSans-Regular-75"/>
+       <use x="527.499924" xlink:href="#WorkSans-Regular-73"/>
+       <use x="580.199921" xlink:href="#WorkSans-Regular-74"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_47">
+     <g id="text_57">
+      <!-- Organic Dust -->
+      <g style="fill:#262626;" transform="translate(92.215594 485.859212)rotate(-45)scale(0.09 -0.09)">
+       <use xlink:href="#WorkSans-Regular-4f"/>
+       <use x="74.799988" xlink:href="#WorkSans-Regular-72"/>
+       <use x="115.599976" xlink:href="#WorkSans-Regular-67"/>
+       <use x="168.799973" xlink:href="#WorkSans-Regular-61"/>
+       <use x="225.399963" xlink:href="#WorkSans-Regular-6e"/>
+       <use x="287.299957" xlink:href="#WorkSans-Regular-69"/>
+       <use x="313.899948" xlink:href="#WorkSans-Regular-63"/>
+       <use x="369.899933" xlink:href="#WorkSans-Regular-20"/>
+       <use x="403.999924" xlink:href="#WorkSans-Regular-44"/>
+       <use x="476.099915" xlink:href="#WorkSans-Regular-75"/>
+       <use x="537.799911" xlink:href="#WorkSans-Regular-73"/>
+       <use x="590.499908" xlink:href="#WorkSans-Regular-74"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_48">
+     <g id="text_58">
+      <!-- Other Fumes -->
+      <g style="fill:#262626;" transform="translate(101.522496 486.35043)rotate(-45)scale(0.09 -0.09)">
+       <use xlink:href="#WorkSans-Regular-4f"/>
+       <use x="74.799988" xlink:href="#WorkSans-Regular-74"/>
+       <use x="116.699982" xlink:href="#WorkSans-Regular-68"/>
+       <use x="178.599976" xlink:href="#WorkSans-Regular-65"/>
+       <use x="236.299973" xlink:href="#WorkSans-Regular-72"/>
+       <use x="277.09996" xlink:href="#WorkSans-Regular-20"/>
+       <use x="311.199951" xlink:href="#WorkSans-Regular-46"/>
+       <use x="372.199936" xlink:href="#WorkSans-Regular-75"/>
+       <use x="433.899933" xlink:href="#WorkSans-Regular-6d"/>
+       <use x="529.199921" xlink:href="#WorkSans-Regular-65"/>
+       <use x="586.899918" xlink:href="#WorkSans-Regular-73"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_49">
+     <g id="text_59">
+      <!-- Poverty Ratio -->
+      <g style="fill:#262626;" transform="translate(110.520149 487.023618)rotate(-45)scale(0.09 -0.09)">
+       <use xlink:href="#WorkSans-Regular-50"/>
+       <use x="60.999985" xlink:href="#WorkSans-Regular-6f"/>
+       <use x="120.999969" xlink:href="#WorkSans-Regular-76"/>
+       <use x="172.999954" xlink:href="#WorkSans-Regular-65"/>
+       <use x="230.699951" xlink:href="#WorkSans-Regular-72"/>
+       <use x="271.499939" xlink:href="#WorkSans-Regular-74"/>
+       <use x="313.399933" xlink:href="#WorkSans-Regular-79"/>
+       <use x="364.999924" xlink:href="#WorkSans-Regular-20"/>
+       <use x="399.099915" xlink:href="#WorkSans-Regular-52"/>
+       <use x="465.599899" xlink:href="#WorkSans-Regular-61"/>
+       <use x="522.19989" xlink:href="#WorkSans-Regular-74"/>
+       <use x="564.099884" xlink:href="#WorkSans-Regular-69"/>
+       <use x="590.699875" xlink:href="#WorkSans-Regular-6f"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_50">
+     <g id="text_60">
+      <!-- UK Born -->
+      <g style="fill:#262626;" transform="translate(136.336558 471.005329)rotate(-45)scale(0.09 -0.09)">
+       <use xlink:href="#WorkSans-Regular-55"/>
+       <use x="70.799988" xlink:href="#WorkSans-Regular-4b"/>
+       <use x="136.399979" xlink:href="#WorkSans-Regular-20"/>
+       <use x="170.499969" xlink:href="#WorkSans-Regular-42"/>
+       <use x="235.799957" xlink:href="#WorkSans-Regular-6f"/>
+       <use x="295.799942" xlink:href="#WorkSans-Regular-72"/>
+       <use x="336.59993" xlink:href="#WorkSans-Regular-6e"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_51">
+     <g id="text_61">
+      <!-- US Born -->
+      <g style="fill:#262626;" transform="translate(146.166499 470.909869)rotate(-45)scale(0.09 -0.09)">
+       <use xlink:href="#WorkSans-Regular-55"/>
+       <use x="70.799988" xlink:href="#WorkSans-Regular-53"/>
+       <use x="134.899979" xlink:href="#WorkSans-Regular-20"/>
+       <use x="168.999969" xlink:href="#WorkSans-Regular-42"/>
+       <use x="234.299957" xlink:href="#WorkSans-Regular-6f"/>
+       <use x="294.299942" xlink:href="#WorkSans-Regular-72"/>
+       <use x="335.09993" xlink:href="#WorkSans-Regular-6e"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_52">
+     <g id="text_62">
+      <!-- Work Air Quality -->
+      <g style="fill:#262626;" transform="translate(130.288025 496.491004)rotate(-45)scale(0.09 -0.09)">
+       <use xlink:href="#WorkSans-Regular-57"/>
+       <use x="96.099991" xlink:href="#WorkSans-Regular-6f"/>
+       <use x="156.099976" xlink:href="#WorkSans-Regular-72"/>
+       <use x="196.899963" xlink:href="#WorkSans-Regular-6b"/>
+       <use x="253.59996" xlink:href="#WorkSans-Regular-20"/>
+       <use x="287.699951" xlink:href="#WorkSans-Regular-41"/>
+       <use x="353.699936" xlink:href="#WorkSans-Regular-69"/>
+       <use x="380.299927" xlink:href="#WorkSans-Regular-72"/>
+       <use x="421.099915" xlink:href="#WorkSans-Regular-20"/>
+       <use x="455.199905" xlink:href="#WorkSans-Regular-51"/>
+       <use x="529.999893" xlink:href="#WorkSans-Regular-75"/>
+       <use x="591.69989" xlink:href="#WorkSans-Regular-61"/>
+       <use x="648.299881" xlink:href="#WorkSans-Regular-6c"/>
+       <use x="678.899872" xlink:href="#WorkSans-Regular-69"/>
+       <use x="705.499863" xlink:href="#WorkSans-Regular-74"/>
+       <use x="747.399857" xlink:href="#WorkSans-Regular-79"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_53">
+     <g id="text_63">
+      <!-- Work Breathing -->
+      <g style="fill:#262626;" transform="translate(142.909159 493.604351)rotate(-45)scale(0.09 -0.09)">
+       <use xlink:href="#WorkSans-Regular-57"/>
+       <use x="96.099991" xlink:href="#WorkSans-Regular-6f"/>
+       <use x="156.099976" xlink:href="#WorkSans-Regular-72"/>
+       <use x="196.899963" xlink:href="#WorkSans-Regular-6b"/>
+       <use x="253.59996" xlink:href="#WorkSans-Regular-20"/>
+       <use x="287.699951" xlink:href="#WorkSans-Regular-42"/>
+       <use x="352.999939" xlink:href="#WorkSans-Regular-72"/>
+       <use x="393.799927" xlink:href="#WorkSans-Regular-65"/>
+       <use x="451.499924" xlink:href="#WorkSans-Regular-61"/>
+       <use x="508.099915" xlink:href="#WorkSans-Regular-74"/>
+       <use x="549.999908" xlink:href="#WorkSans-Regular-68"/>
+       <use x="611.899902" xlink:href="#WorkSans-Regular-69"/>
+       <use x="638.499893" xlink:href="#WorkSans-Regular-6e"/>
+       <use x="700.399887" xlink:href="#WorkSans-Regular-67"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_54">
+     <g id="text_64">
+      <!-- Work Exhaust -->
+      <g style="fill:#262626;" transform="translate(157.38479 488.89502)rotate(-45)scale(0.09 -0.09)">
+       <use xlink:href="#WorkSans-Regular-57"/>
+       <use x="96.099991" xlink:href="#WorkSans-Regular-6f"/>
+       <use x="156.099976" xlink:href="#WorkSans-Regular-72"/>
+       <use x="196.899963" xlink:href="#WorkSans-Regular-6b"/>
+       <use x="253.59996" xlink:href="#WorkSans-Regular-20"/>
+       <use x="287.699951" xlink:href="#WorkSans-Regular-45"/>
+       <use x="351.499939" xlink:href="#WorkSans-Regular-78"/>
+       <use x="404.799927" xlink:href="#WorkSans-Regular-68"/>
+       <use x="466.699921" xlink:href="#WorkSans-Regular-61"/>
+       <use x="523.299911" xlink:href="#WorkSans-Regular-75"/>
+       <use x="584.999908" xlink:href="#WorkSans-Regular-73"/>
+       <use x="637.699905" xlink:href="#WorkSans-Regular-74"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_55">
+     <g id="text_65">
+      <!-- Work Fumes -->
+      <g style="fill:#262626;" transform="translate(171.160386 484.853905)rotate(-45)scale(0.09 -0.09)">
+       <use xlink:href="#WorkSans-Regular-57"/>
+       <use x="96.099991" xlink:href="#WorkSans-Regular-6f"/>
+       <use x="156.099976" xlink:href="#WorkSans-Regular-72"/>
+       <use x="196.899963" xlink:href="#WorkSans-Regular-6b"/>
+       <use x="253.59996" xlink:href="#WorkSans-Regular-20"/>
+       <use x="287.699951" xlink:href="#WorkSans-Regular-46"/>
+       <use x="348.699936" xlink:href="#WorkSans-Regular-75"/>
+       <use x="410.399933" xlink:href="#WorkSans-Regular-6d"/>
+       <use x="505.699921" xlink:href="#WorkSans-Regular-65"/>
+       <use x="563.399918" xlink:href="#WorkSans-Regular-73"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_56">
+     <g id="text_66">
+      <!-- Work Mask -->
+      <g style="fill:#262626;" transform="translate(185.795117 479.953655)rotate(-45)scale(0.09 -0.09)">
+       <use xlink:href="#WorkSans-Regular-57"/>
+       <use x="96.099991" xlink:href="#WorkSans-Regular-6f"/>
+       <use x="156.099976" xlink:href="#WorkSans-Regular-72"/>
+       <use x="196.899963" xlink:href="#WorkSans-Regular-6b"/>
+       <use x="253.59996" xlink:href="#WorkSans-Regular-20"/>
+       <use x="287.699951" xlink:href="#WorkSans-Regular-4d"/>
+       <use x="373.099945" xlink:href="#WorkSans-Regular-61"/>
+       <use x="429.699936" xlink:href="#WorkSans-Regular-73"/>
+       <use x="482.399933" xlink:href="#WorkSans-Regular-6b"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_57">
+     <g id="text_67">
+      <!-- Work Smoke -->
+      <g style="fill:#262626;" transform="translate(190.286291 485.196962)rotate(-45)scale(0.09 -0.09)">
+       <use xlink:href="#WorkSans-Regular-57"/>
+       <use x="96.099991" xlink:href="#WorkSans-Regular-6f"/>
+       <use x="156.099976" xlink:href="#WorkSans-Regular-72"/>
+       <use x="196.899963" xlink:href="#WorkSans-Regular-6b"/>
+       <use x="253.59996" xlink:href="#WorkSans-Regular-20"/>
+       <use x="287.699951" xlink:href="#WorkSans-Regular-53"/>
+       <use x="351.799942" xlink:href="#WorkSans-Regular-6d"/>
+       <use x="447.09993" xlink:href="#WorkSans-Regular-6f"/>
+       <use x="507.099915" xlink:href="#WorkSans-Regular-6b"/>
+       <use x="563.799911" xlink:href="#WorkSans-Regular-65"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_58">
+     <g id="text_68">
+      <!-- Years in UK -->
+      <g style="fill:#262626;" transform="translate(204.05592 481.161813)rotate(-45)scale(0.09 -0.09)">
+       <use xlink:href="#WorkSans-Regular-59"/>
+       <use x="57.199997" xlink:href="#WorkSans-Regular-65"/>
+       <use x="114.899994" xlink:href="#WorkSans-Regular-61"/>
+       <use x="171.499985" xlink:href="#WorkSans-Regular-72"/>
+       <use x="212.299973" xlink:href="#WorkSans-Regular-73"/>
+       <use x="264.999969" xlink:href="#WorkSans-Regular-20"/>
+       <use x="299.09996" xlink:href="#WorkSans-Regular-69"/>
+       <use x="325.699951" xlink:href="#WorkSans-Regular-6e"/>
+       <use x="387.599945" xlink:href="#WorkSans-Regular-20"/>
+       <use x="421.699936" xlink:href="#WorkSans-Regular-55"/>
+       <use x="492.499924" xlink:href="#WorkSans-Regular-4b"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_59">
+     <g id="text_69">
+      <!-- Arm Circumference -->
+      <g style="fill:#262626;" transform="translate(188.448909 506.503305)rotate(-45)scale(0.09 -0.09)">
+       <use xlink:href="#WorkSans-Regular-41"/>
+       <use x="65.999985" xlink:href="#WorkSans-Regular-72"/>
+       <use x="106.799973" xlink:href="#WorkSans-Regular-6d"/>
+       <use x="202.09996" xlink:href="#WorkSans-Regular-20"/>
+       <use x="236.199951" xlink:href="#WorkSans-Regular-43"/>
+       <use x="304.799942" xlink:href="#WorkSans-Regular-69"/>
+       <use x="331.399933" xlink:href="#WorkSans-Regular-72"/>
+       <use x="372.199921" xlink:href="#WorkSans-Regular-63"/>
+       <use x="428.199905" xlink:href="#WorkSans-Regular-75"/>
+       <use x="489.899902" xlink:href="#WorkSans-Regular-6d"/>
+       <use x="585.19989" xlink:href="#WorkSans-Regular-66"/>
+       <use x="624.499878" xlink:href="#WorkSans-Regular-65"/>
+       <use x="682.199875" xlink:href="#WorkSans-Regular-72"/>
+       <use x="722.999863" xlink:href="#WorkSans-Regular-65"/>
+       <use x="780.69986" xlink:href="#WorkSans-Regular-6e"/>
+       <use x="842.599854" xlink:href="#WorkSans-Regular-63"/>
+       <use x="898.599838" xlink:href="#WorkSans-Regular-65"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_60">
+     <g id="text_70">
+      <!-- Arm Length -->
+      <g style="fill:#262626;" transform="translate(222.568299 482.086576)rotate(-45)scale(0.09 -0.09)">
+       <use xlink:href="#WorkSans-Regular-41"/>
+       <use x="65.999985" xlink:href="#WorkSans-Regular-72"/>
+       <use x="106.799973" xlink:href="#WorkSans-Regular-6d"/>
+       <use x="202.09996" xlink:href="#WorkSans-Regular-20"/>
+       <use x="236.199951" xlink:href="#WorkSans-Regular-4c"/>
+       <use x="295.999939" xlink:href="#WorkSans-Regular-65"/>
+       <use x="353.699936" xlink:href="#WorkSans-Regular-6e"/>
+       <use x="415.59993" xlink:href="#WorkSans-Regular-67"/>
+       <use x="468.799927" xlink:href="#WorkSans-Regular-74"/>
+       <use x="510.699921" xlink:href="#WorkSans-Regular-68"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_61">
+     <g id="text_71">
+      <!-- BMI -->
+      <g style="fill:#262626;" transform="translate(257.301214 457.119961)rotate(-45)scale(0.09 -0.09)">
+       <use xlink:href="#WorkSans-Regular-42"/>
+       <use x="65.299988" xlink:href="#WorkSans-Regular-4d"/>
+       <use x="150.699982" xlink:href="#WorkSans-Regular-49"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_62">
+     <g id="text_72">
+      <!-- Height -->
+      <g style="fill:#262626;" transform="translate(258.449319 465.674517)rotate(-45)scale(0.09 -0.09)">
+       <use xlink:href="#WorkSans-Regular-48"/>
+       <use x="73.399994" xlink:href="#WorkSans-Regular-65"/>
+       <use x="131.099991" xlink:href="#WorkSans-Regular-69"/>
+       <use x="157.699982" xlink:href="#WorkSans-Regular-67"/>
+       <use x="210.899979" xlink:href="#WorkSans-Regular-68"/>
+       <use x="272.799973" xlink:href="#WorkSans-Regular-74"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_63">
+     <g id="text_73">
+      <!-- Hip Circumference -->
+      <g style="fill:#262626;" transform="translate(229.893636 504.02832)rotate(-45)scale(0.09 -0.09)">
+       <use xlink:href="#WorkSans-Regular-48"/>
+       <use x="73.399994" xlink:href="#WorkSans-Regular-69"/>
+       <use x="99.999985" xlink:href="#WorkSans-Regular-70"/>
+       <use x="162.699982" xlink:href="#WorkSans-Regular-20"/>
+       <use x="196.799973" xlink:href="#WorkSans-Regular-43"/>
+       <use x="265.399963" xlink:href="#WorkSans-Regular-69"/>
+       <use x="291.999954" xlink:href="#WorkSans-Regular-72"/>
+       <use x="332.799942" xlink:href="#WorkSans-Regular-63"/>
+       <use x="388.799927" xlink:href="#WorkSans-Regular-75"/>
+       <use x="450.499924" xlink:href="#WorkSans-Regular-6d"/>
+       <use x="545.799911" xlink:href="#WorkSans-Regular-66"/>
+       <use x="585.099899" xlink:href="#WorkSans-Regular-65"/>
+       <use x="642.799896" xlink:href="#WorkSans-Regular-72"/>
+       <use x="683.599884" xlink:href="#WorkSans-Regular-65"/>
+       <use x="741.299881" xlink:href="#WorkSans-Regular-6e"/>
+       <use x="803.199875" xlink:href="#WorkSans-Regular-63"/>
+       <use x="859.19986" xlink:href="#WorkSans-Regular-65"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_64">
+     <g id="text_74">
+      <!-- Sitting Height -->
+      <g style="fill:#262626;" transform="translate(255.625524 487.967274)rotate(-45)scale(0.09 -0.09)">
+       <use xlink:href="#WorkSans-Regular-53"/>
+       <use x="64.099991" xlink:href="#WorkSans-Regular-69"/>
+       <use x="90.699982" xlink:href="#WorkSans-Regular-74"/>
+       <use x="132.599976" xlink:href="#WorkSans-Regular-74"/>
+       <use x="174.499969" xlink:href="#WorkSans-Regular-69"/>
+       <use x="201.09996" xlink:href="#WorkSans-Regular-6e"/>
+       <use x="262.999954" xlink:href="#WorkSans-Regular-67"/>
+       <use x="316.199951" xlink:href="#WorkSans-Regular-20"/>
+       <use x="350.299942" xlink:href="#WorkSans-Regular-48"/>
+       <use x="423.699936" xlink:href="#WorkSans-Regular-65"/>
+       <use x="481.399933" xlink:href="#WorkSans-Regular-69"/>
+       <use x="507.999924" xlink:href="#WorkSans-Regular-67"/>
+       <use x="561.199921" xlink:href="#WorkSans-Regular-68"/>
+       <use x="623.099915" xlink:href="#WorkSans-Regular-74"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_65">
+     <g id="text_75">
+      <!-- Upper Leg Length -->
+      <g style="fill:#262626;" transform="translate(252.313885 501.013394)rotate(-45)scale(0.09 -0.09)">
+       <use xlink:href="#WorkSans-Regular-55"/>
+       <use x="70.799988" xlink:href="#WorkSans-Regular-70"/>
+       <use x="133.499985" xlink:href="#WorkSans-Regular-70"/>
+       <use x="196.199982" xlink:href="#WorkSans-Regular-65"/>
+       <use x="253.899979" xlink:href="#WorkSans-Regular-72"/>
+       <use x="294.699966" xlink:href="#WorkSans-Regular-20"/>
+       <use x="328.799957" xlink:href="#WorkSans-Regular-4c"/>
+       <use x="388.599945" xlink:href="#WorkSans-Regular-65"/>
+       <use x="446.299942" xlink:href="#WorkSans-Regular-67"/>
+       <use x="499.499939" xlink:href="#WorkSans-Regular-20"/>
+       <use x="533.59993" xlink:href="#WorkSans-Regular-4c"/>
+       <use x="593.399918" xlink:href="#WorkSans-Regular-65"/>
+       <use x="651.099915" xlink:href="#WorkSans-Regular-6e"/>
+       <use x="712.999908" xlink:href="#WorkSans-Regular-67"/>
+       <use x="766.199905" xlink:href="#WorkSans-Regular-74"/>
+       <use x="808.099899" xlink:href="#WorkSans-Regular-68"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_66">
+     <g id="text_76">
+      <!-- Waist Circumference -->
+      <g style="fill:#262626;" transform="translate(252.021149 511.07243)rotate(-45)scale(0.09 -0.09)">
+       <use xlink:href="#WorkSans-Regular-57"/>
+       <use x="96.099991" xlink:href="#WorkSans-Regular-61"/>
+       <use x="152.699982" xlink:href="#WorkSans-Regular-69"/>
+       <use x="179.299973" xlink:href="#WorkSans-Regular-73"/>
+       <use x="231.999969" xlink:href="#WorkSans-Regular-74"/>
+       <use x="273.899963" xlink:href="#WorkSans-Regular-20"/>
+       <use x="307.999954" xlink:href="#WorkSans-Regular-43"/>
+       <use x="376.599945" xlink:href="#WorkSans-Regular-69"/>
+       <use x="403.199936" xlink:href="#WorkSans-Regular-72"/>
+       <use x="443.999924" xlink:href="#WorkSans-Regular-63"/>
+       <use x="499.999908" xlink:href="#WorkSans-Regular-75"/>
+       <use x="561.699905" xlink:href="#WorkSans-Regular-6d"/>
+       <use x="656.999893" xlink:href="#WorkSans-Regular-66"/>
+       <use x="696.299881" xlink:href="#WorkSans-Regular-65"/>
+       <use x="753.999878" xlink:href="#WorkSans-Regular-72"/>
+       <use x="794.799866" xlink:href="#WorkSans-Regular-65"/>
+       <use x="852.499863" xlink:href="#WorkSans-Regular-6e"/>
+       <use x="914.399857" xlink:href="#WorkSans-Regular-63"/>
+       <use x="970.399841" xlink:href="#WorkSans-Regular-65"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_67">
+     <g id="text_77">
+      <!-- Weight -->
+      <g style="fill:#262626;" transform="translate(305.677899 467.118341)rotate(-45)scale(0.09 -0.09)">
+       <use xlink:href="#WorkSans-Regular-57"/>
+       <use x="96.099991" xlink:href="#WorkSans-Regular-65"/>
+       <use x="153.799988" xlink:href="#WorkSans-Regular-69"/>
+       <use x="180.399979" xlink:href="#WorkSans-Regular-67"/>
+       <use x="233.599976" xlink:href="#WorkSans-Regular-68"/>
+       <use x="295.499969" xlink:href="#WorkSans-Regular-74"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_68">
+     <g id="text_78">
+      <!-- Sex -->
+      <g style="fill:#262626;" transform="translate(325.773704 456.788837)rotate(-45)scale(0.09 -0.09)">
+       <use xlink:href="#WorkSans-Regular-53"/>
+       <use x="64.099991" xlink:href="#WorkSans-Regular-65"/>
+       <use x="121.799988" xlink:href="#WorkSans-Regular-78"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_69">
+     <g id="text_79">
+      <!-- Race -->
+      <g style="fill:#262626;" transform="translate(331.581422 460.715599)rotate(-45)scale(0.09 -0.09)">
+       <use xlink:href="#WorkSans-Regular-52"/>
+       <use x="66.499985" xlink:href="#WorkSans-Regular-61"/>
+       <use x="123.099976" xlink:href="#WorkSans-Regular-63"/>
+       <use x="179.09996" xlink:href="#WorkSans-Regular-65"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_70">
+     <g id="text_80">
+      <!-- PM10 -->
+      <g style="fill:#262626;" transform="translate(340.6278 461.403703)rotate(-45)scale(0.09 -0.09)">
+       <use xlink:href="#WorkSans-Regular-50"/>
+       <use x="60.999985" xlink:href="#WorkSans-Regular-4d"/>
+       <use x="146.399979" xlink:href="#WorkSans-Regular-31"/>
+       <use x="185.399963" xlink:href="#WorkSans-Regular-30"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_71">
+     <g id="text_81">
+      <!-- PM2.5 -->
+      <g style="fill:#262626;" transform="translate(347.696377 464.069606)rotate(-45)scale(0.09 -0.09)">
+       <use xlink:href="#WorkSans-Regular-50"/>
+       <use x="60.999985" xlink:href="#WorkSans-Regular-4d"/>
+       <use x="146.399979" xlink:href="#WorkSans-Regular-32"/>
+       <use x="204.699966" xlink:href="#WorkSans-Regular-2e"/>
+       <use x="231.299957" xlink:href="#WorkSans-Regular-35"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_72">
+     <g id="text_82">
+      <!-- Smoke Exposure -->
+      <g style="fill:#262626;" transform="translate(323.632259 497.868205)rotate(-45)scale(0.09 -0.09)">
+       <use xlink:href="#WorkSans-Regular-53"/>
+       <use x="64.099991" xlink:href="#WorkSans-Regular-6d"/>
+       <use x="159.399979" xlink:href="#WorkSans-Regular-6f"/>
+       <use x="219.399963" xlink:href="#WorkSans-Regular-6b"/>
+       <use x="276.09996" xlink:href="#WorkSans-Regular-65"/>
+       <use x="333.799957" xlink:href="#WorkSans-Regular-20"/>
+       <use x="367.899948" xlink:href="#WorkSans-Regular-45"/>
+       <use x="431.699936" xlink:href="#WorkSans-Regular-78"/>
+       <use x="484.999924" xlink:href="#WorkSans-Regular-70"/>
+       <use x="547.699921" xlink:href="#WorkSans-Regular-6f"/>
+       <use x="607.699905" xlink:href="#WorkSans-Regular-73"/>
+       <use x="660.399902" xlink:href="#WorkSans-Regular-75"/>
+       <use x="722.099899" xlink:href="#WorkSans-Regular-72"/>
+       <use x="762.899887" xlink:href="#WorkSans-Regular-65"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_73">
+     <g id="text_83">
+      <!-- English Language -->
+      <g style="fill:#262626;" transform="translate(331.749896 499.453229)rotate(-45)scale(0.09 -0.09)">
+       <use xlink:href="#WorkSans-Regular-45"/>
+       <use x="63.799988" xlink:href="#WorkSans-Regular-6e"/>
+       <use x="125.699982" xlink:href="#WorkSans-Regular-67"/>
+       <use x="178.899979" xlink:href="#WorkSans-Regular-6c"/>
+       <use x="209.499969" xlink:href="#WorkSans-Regular-69"/>
+       <use x="236.09996" xlink:href="#WorkSans-Regular-73"/>
+       <use x="288.799957" xlink:href="#WorkSans-Regular-68"/>
+       <use x="350.699951" xlink:href="#WorkSans-Regular-20"/>
+       <use x="384.799942" xlink:href="#WorkSans-Regular-4c"/>
+       <use x="444.59993" xlink:href="#WorkSans-Regular-61"/>
+       <use x="501.199921" xlink:href="#WorkSans-Regular-6e"/>
+       <use x="563.099915" xlink:href="#WorkSans-Regular-67"/>
+       <use x="616.299911" xlink:href="#WorkSans-Regular-75"/>
+       <use x="677.999908" xlink:href="#WorkSans-Regular-61"/>
+       <use x="734.599899" xlink:href="#WorkSans-Regular-67"/>
+       <use x="787.799896" xlink:href="#WorkSans-Regular-65"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_74">
+     <g id="text_84">
+      <!-- Health Insurance -->
+      <g style="fill:#262626;" transform="translate(342.177452 498.791974)rotate(-45)scale(0.09 -0.09)">
+       <use xlink:href="#WorkSans-Regular-48"/>
+       <use x="73.399994" xlink:href="#WorkSans-Regular-65"/>
+       <use x="131.099991" xlink:href="#WorkSans-Regular-61"/>
+       <use x="187.699982" xlink:href="#WorkSans-Regular-6c"/>
+       <use x="218.299973" xlink:href="#WorkSans-Regular-74"/>
+       <use x="260.199966" xlink:href="#WorkSans-Regular-68"/>
+       <use x="322.09996" xlink:href="#WorkSans-Regular-20"/>
+       <use x="356.199951" xlink:href="#WorkSans-Regular-49"/>
+       <use x="385.799942" xlink:href="#WorkSans-Regular-6e"/>
+       <use x="447.699936" xlink:href="#WorkSans-Regular-73"/>
+       <use x="500.399933" xlink:href="#WorkSans-Regular-75"/>
+       <use x="562.09993" xlink:href="#WorkSans-Regular-72"/>
+       <use x="602.899918" xlink:href="#WorkSans-Regular-61"/>
+       <use x="659.499908" xlink:href="#WorkSans-Regular-6e"/>
+       <use x="721.399902" xlink:href="#WorkSans-Regular-63"/>
+       <use x="777.399887" xlink:href="#WorkSans-Regular-65"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_75">
+     <g id="text_85">
+      <!-- High School Graduate -->
+      <g style="fill:#262626;" transform="translate(337.16743 513.504656)rotate(-45)scale(0.09 -0.09)">
+       <use xlink:href="#WorkSans-Regular-48"/>
+       <use x="73.399994" xlink:href="#WorkSans-Regular-69"/>
+       <use x="99.999985" xlink:href="#WorkSans-Regular-67"/>
+       <use x="153.199982" xlink:href="#WorkSans-Regular-68"/>
+       <use x="215.099976" xlink:href="#WorkSans-Regular-20"/>
+       <use x="249.199966" xlink:href="#WorkSans-Regular-53"/>
+       <use x="313.299957" xlink:href="#WorkSans-Regular-63"/>
+       <use x="369.299942" xlink:href="#WorkSans-Regular-68"/>
+       <use x="431.199936" xlink:href="#WorkSans-Regular-6f"/>
+       <use x="491.199921" xlink:href="#WorkSans-Regular-6f"/>
+       <use x="551.199905" xlink:href="#WorkSans-Regular-6c"/>
+       <use x="581.799896" xlink:href="#WorkSans-Regular-20"/>
+       <use x="615.899887" xlink:href="#WorkSans-Regular-47"/>
+       <use x="688.299881" xlink:href="#WorkSans-Regular-72"/>
+       <use x="729.099869" xlink:href="#WorkSans-Regular-61"/>
+       <use x="785.69986" xlink:href="#WorkSans-Regular-64"/>
+       <use x="848.399857" xlink:href="#WorkSans-Regular-75"/>
+       <use x="910.099854" xlink:href="#WorkSans-Regular-61"/>
+       <use x="966.699844" xlink:href="#WorkSans-Regular-74"/>
+       <use x="1008.599838" xlink:href="#WorkSans-Regular-65"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_76">
+     <g id="text_86">
+      <!-- Household Size -->
+      <g style="fill:#262626;" transform="translate(366.642122 493.796264)rotate(-45)scale(0.09 -0.09)">
+       <use xlink:href="#WorkSans-Regular-48"/>
+       <use x="73.399994" xlink:href="#WorkSans-Regular-6f"/>
+       <use x="133.399979" xlink:href="#WorkSans-Regular-75"/>
+       <use x="195.099976" xlink:href="#WorkSans-Regular-73"/>
+       <use x="247.799973" xlink:href="#WorkSans-Regular-65"/>
+       <use x="305.499969" xlink:href="#WorkSans-Regular-68"/>
+       <use x="367.399963" xlink:href="#WorkSans-Regular-6f"/>
+       <use x="427.399948" xlink:href="#WorkSans-Regular-6c"/>
+       <use x="457.999939" xlink:href="#WorkSans-Regular-64"/>
+       <use x="520.699936" xlink:href="#WorkSans-Regular-20"/>
+       <use x="554.799927" xlink:href="#WorkSans-Regular-53"/>
+       <use x="618.899918" xlink:href="#WorkSans-Regular-69"/>
+       <use x="645.499908" xlink:href="#WorkSans-Regular-7a"/>
+       <use x="698.899902" xlink:href="#WorkSans-Regular-65"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_77">
+     <g id="text_87">
+      <!-- Immigrant -->
+      <g style="fill:#262626;" transform="translate(392.599732 477.509496)rotate(-45)scale(0.09 -0.09)">
+       <use xlink:href="#WorkSans-Regular-49"/>
+       <use x="29.599991" xlink:href="#WorkSans-Regular-6d"/>
+       <use x="124.899979" xlink:href="#WorkSans-Regular-6d"/>
+       <use x="220.199966" xlink:href="#WorkSans-Regular-69"/>
+       <use x="246.799957" xlink:href="#WorkSans-Regular-67"/>
+       <use x="299.999954" xlink:href="#WorkSans-Regular-72"/>
+       <use x="340.799942" xlink:href="#WorkSans-Regular-61"/>
+       <use x="397.399933" xlink:href="#WorkSans-Regular-6e"/>
+       <use x="459.299927" xlink:href="#WorkSans-Regular-74"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_78">
+     <g id="text_88">
+      <!-- Income:Poverty -->
+      <g style="fill:#262626;" transform="translate(386.175718 493.667991)rotate(-45)scale(0.09 -0.09)">
+       <use xlink:href="#WorkSans-Regular-49"/>
+       <use x="29.599991" xlink:href="#WorkSans-Regular-6e"/>
+       <use x="91.499985" xlink:href="#WorkSans-Regular-63"/>
+       <use x="147.499969" xlink:href="#WorkSans-Regular-6f"/>
+       <use x="207.499954" xlink:href="#WorkSans-Regular-6d"/>
+       <use x="302.799942" xlink:href="#WorkSans-Regular-65"/>
+       <use x="360.499939" xlink:href="#WorkSans-Regular-3a"/>
+       <use x="390.09993" xlink:href="#WorkSans-Regular-50"/>
+       <use x="451.099915" xlink:href="#WorkSans-Regular-6f"/>
+       <use x="511.099899" xlink:href="#WorkSans-Regular-76"/>
+       <use x="563.099884" xlink:href="#WorkSans-Regular-65"/>
+       <use x="620.799881" xlink:href="#WorkSans-Regular-72"/>
+       <use x="661.599869" xlink:href="#WorkSans-Regular-74"/>
+       <use x="703.499863" xlink:href="#WorkSans-Regular-79"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_79">
+     <g id="text_89">
+      <!-- Married -->
+      <g style="fill:#262626;" transform="translate(420.411449 469.23038)rotate(-45)scale(0.09 -0.09)">
+       <use xlink:href="#WorkSans-Regular-4d"/>
+       <use x="85.399994" xlink:href="#WorkSans-Regular-61"/>
+       <use x="141.999985" xlink:href="#WorkSans-Regular-72"/>
+       <use x="182.799973" xlink:href="#WorkSans-Regular-72"/>
+       <use x="223.59996" xlink:href="#WorkSans-Regular-69"/>
+       <use x="250.199951" xlink:href="#WorkSans-Regular-65"/>
+       <use x="307.899948" xlink:href="#WorkSans-Regular-64"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_80">
+     <g id="text_90">
+      <!-- Military Health -->
+      <g style="fill:#262626;" transform="translate(408.114692 491.229798)rotate(-45)scale(0.09 -0.09)">
+       <use xlink:href="#WorkSans-Regular-4d"/>
+       <use x="85.399994" xlink:href="#WorkSans-Regular-69"/>
+       <use x="111.999985" xlink:href="#WorkSans-Regular-6c"/>
+       <use x="142.599976" xlink:href="#WorkSans-Regular-69"/>
+       <use x="169.199966" xlink:href="#WorkSans-Regular-74"/>
+       <use x="211.09996" xlink:href="#WorkSans-Regular-61"/>
+       <use x="267.699951" xlink:href="#WorkSans-Regular-72"/>
+       <use x="308.499939" xlink:href="#WorkSans-Regular-79"/>
+       <use x="360.09993" xlink:href="#WorkSans-Regular-20"/>
+       <use x="394.199921" xlink:href="#WorkSans-Regular-48"/>
+       <use x="467.599915" xlink:href="#WorkSans-Regular-65"/>
+       <use x="525.299911" xlink:href="#WorkSans-Regular-61"/>
+       <use x="581.899902" xlink:href="#WorkSans-Regular-6c"/>
+       <use x="612.499893" xlink:href="#WorkSans-Regular-74"/>
+       <use x="654.399887" xlink:href="#WorkSans-Regular-68"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_81">
+     <g id="text_91">
+      <!-- Private Insurance -->
+      <g style="fill:#262626;" transform="translate(409.397037 499.713754)rotate(-45)scale(0.09 -0.09)">
+       <use xlink:href="#WorkSans-Regular-50"/>
+       <use x="60.999985" xlink:href="#WorkSans-Regular-72"/>
+       <use x="101.799973" xlink:href="#WorkSans-Regular-69"/>
+       <use x="128.399963" xlink:href="#WorkSans-Regular-76"/>
+       <use x="180.399948" xlink:href="#WorkSans-Regular-61"/>
+       <use x="236.999939" xlink:href="#WorkSans-Regular-74"/>
+       <use x="278.899933" xlink:href="#WorkSans-Regular-65"/>
+       <use x="336.59993" xlink:href="#WorkSans-Regular-20"/>
+       <use x="370.699921" xlink:href="#WorkSans-Regular-49"/>
+       <use x="400.299911" xlink:href="#WorkSans-Regular-6e"/>
+       <use x="462.199905" xlink:href="#WorkSans-Regular-73"/>
+       <use x="514.899902" xlink:href="#WorkSans-Regular-75"/>
+       <use x="576.599899" xlink:href="#WorkSans-Regular-72"/>
+       <use x="617.399887" xlink:href="#WorkSans-Regular-61"/>
+       <use x="673.999878" xlink:href="#WorkSans-Regular-6e"/>
+       <use x="735.899872" xlink:href="#WorkSans-Regular-63"/>
+       <use x="791.899857" xlink:href="#WorkSans-Regular-65"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_82">
+     <g id="text_92">
+      <!-- Veteran -->
+      <g style="fill:#262626;" transform="translate(448.926788 469.918484)rotate(-45)scale(0.09 -0.09)">
+       <use xlink:href="#WorkSans-Regular-56"/>
+       <use x="64.799988" xlink:href="#WorkSans-Regular-65"/>
+       <use x="122.499985" xlink:href="#WorkSans-Regular-74"/>
+       <use x="164.399979" xlink:href="#WorkSans-Regular-65"/>
+       <use x="222.099976" xlink:href="#WorkSans-Regular-72"/>
+       <use x="262.899963" xlink:href="#WorkSans-Regular-61"/>
+       <use x="319.499954" xlink:href="#WorkSans-Regular-6e"/>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_4">
+    <g id="ytick_8">
+     <g id="text_93">
+      <!-- 0 -->
+      <g style="fill:#262626;" transform="translate(59.333354 434.600031)scale(0.07 -0.07)">
+       <use xlink:href="#WorkSans-Regular-30"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_9">
+     <g id="text_94">
+      <!-- 50 -->
+      <g style="fill:#262626;" transform="translate(55.259135 411.117642)scale(0.07 -0.07)">
+       <use xlink:href="#WorkSans-Regular-35"/>
+       <use x="58.199997" xlink:href="#WorkSans-Regular-30"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_10">
+     <g id="text_95">
+      <!-- 100 -->
+      <g style="fill:#262626;" transform="translate(52.249135 387.635253)scale(0.07 -0.07)">
+       <use xlink:href="#WorkSans-Regular-31"/>
+       <use x="38.999985" xlink:href="#WorkSans-Regular-30"/>
+       <use x="101.199982" xlink:href="#WorkSans-Regular-30"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_11">
+     <g id="text_96">
+      <!-- 150 -->
+      <g style="fill:#262626;" transform="translate(52.529135 364.152863)scale(0.07 -0.07)">
+       <use xlink:href="#WorkSans-Regular-31"/>
+       <use x="38.999985" xlink:href="#WorkSans-Regular-35"/>
+       <use x="97.199982" xlink:href="#WorkSans-Regular-30"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_12">
+     <g id="text_97">
+      <!-- 200 -->
+      <g style="fill:#262626;" transform="translate(50.898354 340.670474)scale(0.07 -0.07)">
+       <use xlink:href="#WorkSans-Regular-32"/>
+       <use x="58.299988" xlink:href="#WorkSans-Regular-30"/>
+       <use x="120.499985" xlink:href="#WorkSans-Regular-30"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_13">
+     <g id="text_98">
+      <!-- 250 -->
+      <g style="fill:#262626;" transform="translate(51.178354 317.188085)scale(0.07 -0.07)">
+       <use xlink:href="#WorkSans-Regular-32"/>
+       <use x="58.299988" xlink:href="#WorkSans-Regular-35"/>
+       <use x="116.499985" xlink:href="#WorkSans-Regular-30"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_14">
+     <g id="text_99">
+      <!-- 300 -->
+      <g style="fill:#262626;" transform="translate(50.898354 293.705696)scale(0.07 -0.07)">
+       <use xlink:href="#WorkSans-Regular-33"/>
+       <use x="58.299988" xlink:href="#WorkSans-Regular-30"/>
+       <use x="120.499985" xlink:href="#WorkSans-Regular-30"/>
+      </g>
+     </g>
+    </g>
+    <g id="text_100">
+     <!-- $-\log_{10}(p)$ -->
+     <g style="fill:#262626;" transform="translate(46.798354 385.105244)rotate(-90)scale(0.1 -0.1)">
+      <use transform="translate(0 0.015625)" xlink:href="#DejaVuSans-2212"/>
+      <use transform="translate(83.789062 0.015625)" xlink:href="#DejaVuSans-6c"/>
+      <use transform="translate(111.572266 0.015625)" xlink:href="#DejaVuSans-6f"/>
+      <use transform="translate(172.753906 0.015625)" xlink:href="#DejaVuSans-67"/>
+      <use transform="translate(237.1875 -16.390625)scale(0.7)" xlink:href="#DejaVuSans-31"/>
+      <use transform="translate(281.723633 -16.390625)scale(0.7)" xlink:href="#DejaVuSans-30"/>
+      <use transform="translate(328.994141 0.015625)" xlink:href="#DejaVuSans-28"/>
+      <use transform="translate(368.007812 0.015625)" xlink:href="#DejaVuSans-Oblique-70"/>
+      <use transform="translate(431.484375 0.015625)" xlink:href="#DejaVuSans-29"/>
+     </g>
+    </g>
+   </g>
+   <g id="line2d_7">
+    <path clip-path="url(#pa1040b66fc)" d="M 65.687573 430.676565 
+L 494.004726 430.676565 
+" style="fill:none;stroke:#ff0000;stroke-dasharray:1.85,0.8;stroke-dashoffset:0;stroke-opacity:0.7;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_8">
+    <path clip-path="url(#pa1040b66fc)" d="M 245.775467 439.000247 
+L 245.775467 284.110241 
+" style="fill:none;stroke:#dddddd;stroke-linecap:round;stroke-width:0.4;"/>
+   </g>
+   <g id="line2d_9">
+    <path clip-path="url(#pa1040b66fc)" d="M 333.385794 439.000247 
+L 333.385794 284.110241 
+" style="fill:none;stroke:#dddddd;stroke-linecap:round;stroke-width:0.4;"/>
+   </g>
+   <g id="line2d_10">
+    <path clip-path="url(#pa1040b66fc)" d="M 343.120274 439.000247 
+L 343.120274 284.110241 
+" style="fill:none;stroke:#dddddd;stroke-linecap:round;stroke-width:0.4;"/>
+   </g>
+   <g id="line2d_11">
+    <path clip-path="url(#pa1040b66fc)" d="M 352.854755 439.000247 
+L 352.854755 284.110241 
+" style="fill:none;stroke:#dddddd;stroke-linecap:round;stroke-width:0.4;"/>
+   </g>
+   <g id="line2d_12">
+    <path clip-path="url(#pa1040b66fc)" d="M 382.058197 439.000247 
+L 382.058197 284.110241 
+" style="fill:none;stroke:#dddddd;stroke-linecap:round;stroke-width:0.4;"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 65.687573 439.000247 
+L 65.687573 284.110241 
+" style="fill:none;stroke:#333333;stroke-linecap:square;stroke-linejoin:miter;stroke-width:0.5;"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 65.687573 439.000247 
+L 494.004726 439.000247 
+" style="fill:none;stroke:#333333;stroke-linecap:square;stroke-linejoin:miter;stroke-width:0.5;"/>
+   </g>
+   <g id="PathCollection_42">
+    <g clip-path="url(#pa1040b66fc)">
+     <use style="fill:#999999;stroke:#ffffff;stroke-width:0.3;" x="85.156534" xlink:href="#mbdb4093d8f" y="291.150696"/>
+    </g>
+   </g>
+   <g id="PathCollection_43">
+    <g clip-path="url(#pa1040b66fc)">
+     <use style="fill:#999999;stroke:#ffffff;stroke-width:0.3;" x="94.891015" xlink:href="#mbdb4093d8f" y="431.677782"/>
+    </g>
+   </g>
+   <g id="PathCollection_44">
+    <g clip-path="url(#pa1040b66fc)">
+     <use style="fill:#999999;stroke:#ffffff;stroke-width:0.3;" x="104.625496" xlink:href="#mbdb4093d8f" y="421.847392"/>
+    </g>
+   </g>
+   <g id="PathCollection_45">
+    <g clip-path="url(#pa1040b66fc)">
+     <use style="fill:#999999;stroke:#ffffff;stroke-width:0.3;" x="114.359977" xlink:href="#mbdb4093d8f" y="291.150696"/>
+    </g>
+   </g>
+   <g id="PathCollection_46">
+    <g clip-path="url(#pa1040b66fc)">
+     <use style="fill:#999999;stroke:#ffffff;stroke-width:0.3;" x="124.094457" xlink:href="#mbdb4093d8f" y="430.75512"/>
+    </g>
+   </g>
+   <g id="PathCollection_47">
+    <g clip-path="url(#pa1040b66fc)">
+     <use style="fill:#999999;stroke:#ffffff;stroke-width:0.3;" x="133.828938" xlink:href="#mbdb4093d8f" y="431.610884"/>
+    </g>
+   </g>
+   <g id="PathCollection_48">
+    <g clip-path="url(#pa1040b66fc)">
+     <use style="fill:#999999;stroke:#ffffff;stroke-width:0.3;" x="143.563419" xlink:href="#mbdb4093d8f" y="431.908453"/>
+    </g>
+   </g>
+   <g id="PathCollection_49">
+    <g clip-path="url(#pa1040b66fc)">
+     <use style="fill:#999999;stroke:#ffffff;stroke-width:0.3;" x="153.2979" xlink:href="#mbdb4093d8f" y="415.963049"/>
+    </g>
+   </g>
+   <g id="PathCollection_50">
+    <g clip-path="url(#pa1040b66fc)">
+     <use style="fill:#999999;stroke:#ffffff;stroke-width:0.3;" x="163.03238" xlink:href="#mbdb4093d8f" y="291.150696"/>
+    </g>
+   </g>
+   <g id="PathCollection_51">
+    <g clip-path="url(#pa1040b66fc)">
+     <use style="fill:#999999;stroke:#ffffff;stroke-width:0.3;" x="172.766861" xlink:href="#mbdb4093d8f" y="415.555017"/>
+    </g>
+   </g>
+   <g id="PathCollection_52">
+    <g clip-path="url(#pa1040b66fc)">
+     <use style="fill:#999999;stroke:#ffffff;stroke-width:0.3;" x="182.501342" xlink:href="#mbdb4093d8f" y="386.226586"/>
+    </g>
+   </g>
+   <g id="PathCollection_53">
+    <g clip-path="url(#pa1040b66fc)">
+     <use style="fill:#999999;stroke:#ffffff;stroke-width:0.3;" x="192.235823" xlink:href="#mbdb4093d8f" y="431.959792"/>
+    </g>
+   </g>
+   <g id="PathCollection_54">
+    <g clip-path="url(#pa1040b66fc)">
+     <use style="fill:#999999;stroke:#ffffff;stroke-width:0.3;" x="201.970303" xlink:href="#mbdb4093d8f" y="424.085754"/>
+    </g>
+   </g>
+   <g id="PathCollection_55">
+    <g clip-path="url(#pa1040b66fc)">
+     <use style="fill:#999999;stroke:#ffffff;stroke-width:0.3;" x="211.704784" xlink:href="#mbdb4093d8f" y="422.048972"/>
+    </g>
+   </g>
+   <g id="PathCollection_56">
+    <g clip-path="url(#pa1040b66fc)">
+     <use style="fill:#999999;stroke:#ffffff;stroke-width:0.3;" x="221.439265" xlink:href="#mbdb4093d8f" y="431.865547"/>
+    </g>
+   </g>
+   <g id="PathCollection_57">
+    <g clip-path="url(#pa1040b66fc)">
+     <use style="fill:#999999;stroke:#ffffff;stroke-width:0.3;" x="231.173746" xlink:href="#mbdb4093d8f" y="394.601022"/>
+    </g>
+   </g>
+   <g id="PathCollection_58">
+    <g clip-path="url(#pa1040b66fc)">
+     <use style="fill:#999999;stroke:#ffffff;stroke-width:0.3;" x="240.908227" xlink:href="#mbdb4093d8f" y="431.470031"/>
+    </g>
+   </g>
+   <g id="PathCollection_59">
+    <g clip-path="url(#pa1040b66fc)">
+     <use style="fill:#0097a7;stroke:#ffffff;stroke-width:0.3;" x="250.642707" xlink:href="#mdac24e1196" y="430.087978"/>
+    </g>
+   </g>
+   <g id="PathCollection_60">
+    <g clip-path="url(#pa1040b66fc)">
+     <use style="fill:#0097a7;stroke:#ffffff;stroke-width:0.3;" x="260.377188" xlink:href="#mdac24e1196" y="413.178731"/>
+    </g>
+   </g>
+   <g id="PathCollection_61">
+    <g clip-path="url(#pa1040b66fc)">
+     <use style="fill:#0097a7;stroke:#ffffff;stroke-width:0.3;" x="270.111669" xlink:href="#mdac24e1196" y="291.150696"/>
+    </g>
+   </g>
+   <g id="PathCollection_62">
+    <g clip-path="url(#pa1040b66fc)">
+     <use style="fill:#0097a7;stroke:#ffffff;stroke-width:0.3;" x="279.84615" xlink:href="#mdac24e1196" y="291.150696"/>
+    </g>
+   </g>
+   <g id="PathCollection_63">
+    <g clip-path="url(#pa1040b66fc)">
+     <use style="fill:#0097a7;stroke:#ffffff;stroke-width:0.3;" x="289.58063" xlink:href="#mdac24e1196" y="425.723465"/>
+    </g>
+   </g>
+   <g id="PathCollection_64">
+    <g clip-path="url(#pa1040b66fc)">
+     <use style="fill:#0097a7;stroke:#ffffff;stroke-width:0.3;" x="299.315111" xlink:href="#mdac24e1196" y="291.150696"/>
+    </g>
+   </g>
+   <g id="PathCollection_65">
+    <g clip-path="url(#pa1040b66fc)">
+     <use style="fill:#0097a7;stroke:#ffffff;stroke-width:0.3;" x="309.049592" xlink:href="#mdac24e1196" y="410.939406"/>
+    </g>
+   </g>
+   <g id="PathCollection_66">
+    <g clip-path="url(#pa1040b66fc)">
+     <use style="fill:#0097a7;stroke:#ffffff;stroke-width:0.3;" x="318.784073" xlink:href="#mdac24e1196" y="291.150696"/>
+    </g>
+   </g>
+   <g id="PathCollection_67">
+    <g clip-path="url(#pa1040b66fc)">
+     <use style="fill:#0097a7;stroke:#ffffff;stroke-width:0.3;" x="328.518553" xlink:href="#mdac24e1196" y="400.219008"/>
+    </g>
+   </g>
+   <g id="PathCollection_68">
+    <g clip-path="url(#pa1040b66fc)">
+     <use style="fill:#999999;stroke:#ffffff;stroke-width:0.3;" x="338.253034" xlink:href="#mbdb4093d8f" y="291.150696"/>
+    </g>
+   </g>
+   <g id="PathCollection_69">
+    <g clip-path="url(#pa1040b66fc)">
+     <use style="fill:#e85d4a;stroke:#ffffff;stroke-width:0.3;" x="347.987515" xlink:href="#mbadb20fcb3" y="291.150696"/>
+    </g>
+   </g>
+   <g id="PathCollection_70">
+    <g clip-path="url(#pa1040b66fc)">
+     <use style="fill:#ff8f00;stroke:#ffffff;stroke-width:0.3;" x="357.721996" xlink:href="#m9c94b22150" y="385.099873"/>
+    </g>
+   </g>
+   <g id="PathCollection_71">
+    <g clip-path="url(#pa1040b66fc)">
+     <use style="fill:#ff8f00;stroke:#ffffff;stroke-width:0.3;" x="367.456476" xlink:href="#m9c94b22150" y="363.064474"/>
+    </g>
+   </g>
+   <g id="PathCollection_72">
+    <g clip-path="url(#pa1040b66fc)">
+     <use style="fill:#ff8f00;stroke:#ffffff;stroke-width:0.3;" x="377.190957" xlink:href="#m9c94b22150" y="426.006562"/>
+    </g>
+   </g>
+   <g id="PathCollection_73">
+    <g clip-path="url(#pa1040b66fc)">
+     <use style="fill:#5c6bc0;stroke:#ffffff;stroke-width:0.3;" x="386.925438" xlink:href="#m3d64bec216" y="426.612333"/>
+    </g>
+   </g>
+   <g id="PathCollection_74">
+    <g clip-path="url(#pa1040b66fc)">
+     <use style="fill:#5c6bc0;stroke:#ffffff;stroke-width:0.3;" x="396.659919" xlink:href="#m3d64bec216" y="429.312799"/>
+    </g>
+   </g>
+   <g id="PathCollection_75">
+    <g clip-path="url(#pa1040b66fc)">
+     <use style="fill:#5c6bc0;stroke:#ffffff;stroke-width:0.3;" x="406.394399" xlink:href="#m3d64bec216" y="356.72436"/>
+    </g>
+   </g>
+   <g id="PathCollection_76">
+    <g clip-path="url(#pa1040b66fc)">
+     <use style="fill:#5c6bc0;stroke:#ffffff;stroke-width:0.3;" x="416.12888" xlink:href="#m3d64bec216" y="425.801478"/>
+    </g>
+   </g>
+   <g id="PathCollection_77">
+    <g clip-path="url(#pa1040b66fc)">
+     <use style="fill:#5c6bc0;stroke:#ffffff;stroke-width:0.3;" x="425.863361" xlink:href="#m3d64bec216" y="291.150696"/>
+    </g>
+   </g>
+   <g id="PathCollection_78">
+    <g clip-path="url(#pa1040b66fc)">
+     <use style="fill:#5c6bc0;stroke:#ffffff;stroke-width:0.3;" x="435.597842" xlink:href="#m3d64bec216" y="361.159649"/>
+    </g>
+   </g>
+   <g id="PathCollection_79">
+    <g clip-path="url(#pa1040b66fc)">
+     <use style="fill:#5c6bc0;stroke:#ffffff;stroke-width:0.3;" x="445.332322" xlink:href="#m3d64bec216" y="429.065152"/>
+    </g>
+   </g>
+   <g id="PathCollection_80">
+    <g clip-path="url(#pa1040b66fc)">
+     <use style="fill:#5c6bc0;stroke:#ffffff;stroke-width:0.3;" x="455.066803" xlink:href="#m3d64bec216" y="431.94493"/>
+    </g>
+   </g>
+   <g id="PathCollection_81">
+    <g clip-path="url(#pa1040b66fc)">
+     <use style="fill:#5c6bc0;stroke:#ffffff;stroke-width:0.3;" x="464.801284" xlink:href="#m3d64bec216" y="423.356335"/>
+    </g>
+   </g>
+   <g id="PathCollection_82">
+    <g clip-path="url(#pa1040b66fc)">
+     <use style="fill:#5c6bc0;stroke:#ffffff;stroke-width:0.3;" x="474.535765" xlink:href="#m3d64bec216" y="429.594496"/>
+    </g>
+   </g>
+   <g id="text_101">
+    <!-- b -->
+    <g style="fill:#262626;" transform="translate(1.44 275.741553)scale(0.1 -0.1)">
+     <defs>
+      <path d="M 2445 -64 
+Q 2131 -64 1891 77 
+Q 1651 218 1497 464 
+Q 1344 710 1299 1024 
+L 1402 1158 
+L 1344 0 
+L 390 0 
+L 390 4557 
+L 1478 4557 
+L 1478 2195 
+L 1376 2349 
+Q 1466 2746 1741 3005 
+Q 2016 3264 2483 3264 
+Q 2854 3264 3145 3065 
+Q 3437 2867 3600 2492 
+Q 3763 2118 3763 1587 
+Q 3763 1069 3596 697 
+Q 3430 326 3136 131 
+Q 2842 -64 2445 -64 
+z
+M 2067 736 
+Q 2349 736 2509 944 
+Q 2669 1152 2669 1600 
+Q 2669 2048 2509 2256 
+Q 2349 2464 2067 2464 
+Q 1882 2464 1750 2358 
+Q 1619 2253 1548 2061 
+Q 1478 1869 1478 1594 
+Q 1478 1318 1548 1126 
+Q 1619 934 1753 835 
+Q 1888 736 2067 736 
+z
+" id="WorkSans-Bold-62" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#WorkSans-Bold-62"/>
+    </g>
+   </g>
+   <g id="text_102">
+    <!-- FEV$_1$ -->
+    <g style="fill:#262626;" transform="translate(504.881069 348.465244)rotate(-270)scale(0.11 -0.11)">
+     <use xlink:href="#WorkSans-Regular-46"/>
+     <use transform="translate(60.999985 0)" xlink:href="#WorkSans-Regular-45"/>
+     <use transform="translate(124.799973 0)" xlink:href="#WorkSans-Regular-56"/>
+     <use transform="translate(190.556992 -16.40625)scale(0.7)" xlink:href="#DejaVuSans-31"/>
+    </g>
+   </g>
+  </g>
+  <g id="legend_1">
+   <g id="line2d_13">
+    <path d="M 80.364785 8.46 
+L 91.164785 8.46 
+" style="fill:none;stroke:#ffffff;stroke-linecap:round;"/>
+   </g>
+   <g id="line2d_14">
+    <defs>
+     <path d="M 0 2.5 
+C 0.663008 2.5 1.29895 2.236584 1.767767 1.767767 
+C 2.236584 1.29895 2.5 0.663008 2.5 0 
+C 2.5 -0.663008 2.236584 -1.29895 1.767767 -1.767767 
+C 1.29895 -2.236584 0.663008 -2.5 0 -2.5 
+C -0.663008 -2.5 -1.29895 -2.236584 -1.767767 -1.767767 
+C -2.236584 -1.29895 -2.5 -0.663008 -2.5 0 
+C -2.5 0.663008 -2.236584 1.29895 -1.767767 1.767767 
+C -1.29895 2.236584 -0.663008 2.5 0 2.5 
+z
+" id="m785fc6df5c" style="stroke:#ffffff;"/>
+    </defs>
+    <g>
+     <use style="fill:#e85d4a;stroke:#ffffff;" x="85.764785" xlink:href="#m785fc6df5c" y="8.46"/>
+    </g>
+   </g>
+   <g id="text_103">
+    <!-- Race -->
+    <g style="fill:#262626;" transform="translate(98.364785 11.61)scale(0.09 -0.09)">
+     <use xlink:href="#WorkSans-Regular-52"/>
+     <use x="66.499985" xlink:href="#WorkSans-Regular-61"/>
+     <use x="123.099976" xlink:href="#WorkSans-Regular-63"/>
+     <use x="179.09996" xlink:href="#WorkSans-Regular-65"/>
+    </g>
+   </g>
+   <g id="line2d_15">
+    <path d="M 137.676504 8.46 
+L 148.476504 8.46 
+" style="fill:none;stroke:#ffffff;stroke-linecap:round;"/>
+   </g>
+   <g id="line2d_16">
+    <defs>
+     <path d="M 0 2.5 
+C 0.663008 2.5 1.29895 2.236584 1.767767 1.767767 
+C 2.236584 1.29895 2.5 0.663008 2.5 0 
+C 2.5 -0.663008 2.236584 -1.29895 1.767767 -1.767767 
+C 1.29895 -2.236584 0.663008 -2.5 0 -2.5 
+C -0.663008 -2.5 -1.29895 -2.236584 -1.767767 -1.767767 
+C -2.236584 -1.29895 -2.5 -0.663008 -2.5 0 
+C -2.5 0.663008 -2.236584 1.29895 -1.767767 1.767767 
+C -1.29895 2.236584 -0.663008 2.5 0 2.5 
+z
+" id="m997bd87d79" style="stroke:#ffffff;"/>
+    </defs>
+    <g>
+     <use style="fill:#0097a7;stroke:#ffffff;" x="143.076504" xlink:href="#m997bd87d79" y="8.46"/>
+    </g>
+   </g>
+   <g id="text_104">
+    <!-- Anthropometrics -->
+    <g style="fill:#262626;" transform="translate(155.676504 11.61)scale(0.09 -0.09)">
+     <use xlink:href="#WorkSans-Regular-41"/>
+     <use x="65.999985" xlink:href="#WorkSans-Regular-6e"/>
+     <use x="127.899979" xlink:href="#WorkSans-Regular-74"/>
+     <use x="169.799973" xlink:href="#WorkSans-Regular-68"/>
+     <use x="231.699966" xlink:href="#WorkSans-Regular-72"/>
+     <use x="272.499954" xlink:href="#WorkSans-Regular-6f"/>
+     <use x="332.499939" xlink:href="#WorkSans-Regular-70"/>
+     <use x="395.199936" xlink:href="#WorkSans-Regular-6f"/>
+     <use x="455.199921" xlink:href="#WorkSans-Regular-6d"/>
+     <use x="550.499908" xlink:href="#WorkSans-Regular-65"/>
+     <use x="608.199905" xlink:href="#WorkSans-Regular-74"/>
+     <use x="650.099899" xlink:href="#WorkSans-Regular-72"/>
+     <use x="690.899887" xlink:href="#WorkSans-Regular-69"/>
+     <use x="717.499878" xlink:href="#WorkSans-Regular-63"/>
+     <use x="773.499863" xlink:href="#WorkSans-Regular-73"/>
+    </g>
+   </g>
+   <g id="line2d_17">
+    <path d="M 248.036191 8.46 
+L 258.836191 8.46 
+" style="fill:none;stroke:#ffffff;stroke-linecap:round;"/>
+   </g>
+   <g id="line2d_18">
+    <defs>
+     <path d="M 0 2.5 
+C 0.663008 2.5 1.29895 2.236584 1.767767 1.767767 
+C 2.236584 1.29895 2.5 0.663008 2.5 0 
+C 2.5 -0.663008 2.236584 -1.29895 1.767767 -1.767767 
+C 1.29895 -2.236584 0.663008 -2.5 0 -2.5 
+C -0.663008 -2.5 -1.29895 -2.236584 -1.767767 -1.767767 
+C -2.236584 -1.29895 -2.5 -0.663008 -2.5 0 
+C -2.5 0.663008 -2.236584 1.29895 -1.767767 1.767767 
+C -1.29895 2.236584 -0.663008 2.5 0 2.5 
+z
+" id="m1a33eb9dbf" style="stroke:#ffffff;"/>
+    </defs>
+    <g>
+     <use style="fill:#5c6bc0;stroke:#ffffff;" x="253.436191" xlink:href="#m1a33eb9dbf" y="8.46"/>
+    </g>
+   </g>
+   <g id="text_105">
+    <!-- Sociodemographics -->
+    <g style="fill:#262626;" transform="translate(266.036191 11.61)scale(0.09 -0.09)">
+     <use xlink:href="#WorkSans-Regular-53"/>
+     <use x="64.099991" xlink:href="#WorkSans-Regular-6f"/>
+     <use x="124.099976" xlink:href="#WorkSans-Regular-63"/>
+     <use x="180.09996" xlink:href="#WorkSans-Regular-69"/>
+     <use x="206.699951" xlink:href="#WorkSans-Regular-6f"/>
+     <use x="266.699936" xlink:href="#WorkSans-Regular-64"/>
+     <use x="329.399933" xlink:href="#WorkSans-Regular-65"/>
+     <use x="387.09993" xlink:href="#WorkSans-Regular-6d"/>
+     <use x="482.399918" xlink:href="#WorkSans-Regular-6f"/>
+     <use x="542.399902" xlink:href="#WorkSans-Regular-67"/>
+     <use x="595.599899" xlink:href="#WorkSans-Regular-72"/>
+     <use x="636.399887" xlink:href="#WorkSans-Regular-61"/>
+     <use x="692.999878" xlink:href="#WorkSans-Regular-70"/>
+     <use x="755.699875" xlink:href="#WorkSans-Regular-68"/>
+     <use x="817.599869" xlink:href="#WorkSans-Regular-69"/>
+     <use x="844.19986" xlink:href="#WorkSans-Regular-63"/>
+     <use x="900.199844" xlink:href="#WorkSans-Regular-73"/>
+    </g>
+   </g>
+   <g id="line2d_19">
+    <path d="M 369.796347 8.46 
+L 380.596347 8.46 
+" style="fill:none;stroke:#ffffff;stroke-linecap:round;"/>
+   </g>
+   <g id="line2d_20">
+    <defs>
+     <path d="M 0 2.5 
+C 0.663008 2.5 1.29895 2.236584 1.767767 1.767767 
+C 2.236584 1.29895 2.5 0.663008 2.5 0 
+C 2.5 -0.663008 2.236584 -1.29895 1.767767 -1.767767 
+C 1.29895 -2.236584 0.663008 -2.5 0 -2.5 
+C -0.663008 -2.5 -1.29895 -2.236584 -1.767767 -1.767767 
+C -2.236584 -1.29895 -2.5 -0.663008 -2.5 0 
+C -2.5 0.663008 -2.236584 1.29895 -1.767767 1.767767 
+C -1.29895 2.236584 -0.663008 2.5 0 2.5 
+z
+" id="m015c5c5c45" style="stroke:#ffffff;"/>
+    </defs>
+    <g>
+     <use style="fill:#ff8f00;stroke:#ffffff;" x="375.196347" xlink:href="#m015c5c5c45" y="8.46"/>
+    </g>
+   </g>
+   <g id="text_106">
+    <!-- Exposures -->
+    <g style="fill:#262626;" transform="translate(387.796347 11.61)scale(0.09 -0.09)">
+     <use xlink:href="#WorkSans-Regular-45"/>
+     <use x="63.799988" xlink:href="#WorkSans-Regular-78"/>
+     <use x="117.099976" xlink:href="#WorkSans-Regular-70"/>
+     <use x="179.799973" xlink:href="#WorkSans-Regular-6f"/>
+     <use x="239.799957" xlink:href="#WorkSans-Regular-73"/>
+     <use x="292.499954" xlink:href="#WorkSans-Regular-75"/>
+     <use x="354.199951" xlink:href="#WorkSans-Regular-72"/>
+     <use x="394.999939" xlink:href="#WorkSans-Regular-65"/>
+     <use x="452.699936" xlink:href="#WorkSans-Regular-73"/>
+    </g>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pbf11ed7236">
+   <rect height="154.890006" width="428.317153" x="65.687573" y="32.110241"/>
+  </clipPath>
+  <clipPath id="pa1040b66fc">
+   <rect height="154.890006" width="428.317153" x="65.687573" y="284.110241"/>
+  </clipPath>
+ </defs>
+</svg>
